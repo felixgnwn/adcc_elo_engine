@@ -1,0 +1,1029 @@
+match_id;winner_id;winner_name;loser_id;loser_name;win_type;submission;winner_points;loser_points;adv_pen;weight_class;sex;stage;year
+3314;484;Murilo Santana;733;Vinicius Magalhaes;DECISION;N/A;-1;-1;N/A;ABS;M;4F;2011
+35049;7507;Nicholas Meregali;9554;Henrique Cardoso;SUBMISSION;Kimura;-1;-1;N/A;99KG;M;R1;2022
+35053;7507;Nicholas Meregali;1740;Yuri Simoes;DECISION;N/A;-1;-1;N/A;99KG;M;4F;2022
+35057;7507;Nicholas Meregali;576;Rafael Lovato Jr;POINTS;N/A;0;0;PEN;99KG;M;3RD;2022
+35096;7507;Nicholas Meregali;11797;Giancarlo Bodoni;POINTS;N/A;6;2;N/A;ABS;M;4F;2022
+35100;7507;Nicholas Meregali;12003;Tye Ruotolo;DECISION;N/A;-1;-1;N/A;ABS;M;SF;2022
+21816;12110;Nick Rodriguez;5842;Mahamed Aly;DECISION;N/A;-1;-1;N/A;+99KG;M;R1;2019
+21822;12110;Nick Rodriguez;2452;Orlando Sanchez;POINTS;N/A;0;0;PEN;+99KG;M;4F;2019
+21883;12110;Nick Rodriguez;224;Roberto Abreu;DECISION;N/A;-1;-1;N/A;+99KG;M;SF;2019
+35071;12110;Nick Rodriguez;2416;Felipe Pena;POINTS;N/A;3;0;N/A;+99KG;M;SF;2022
+35088;12110;Nick Rodriguez;12703;Andy Varela;POINTS;N/A;17;0;N/A;ABS;M;8F;2022
+5004;2107;Otavio Sousa;419;Leonardo Vieira;POINTS;N/A;-1;-1;N/A;77KG;M;SF;2013
+7948;2107;Otavio Sousa;8394;Vagner Rocha;DECISION;N/A;-1;-1;N/A;77KG;M;4F;2015
+7902;2452;Orlando Sanchez;1369;Dean Lister;DECISION;N/A;-1;-1;N/A;+99KG;M;4F;2015
+7905;2452;Orlando Sanchez;733;Vinicius Magalhaes;DECISION;N/A;-1;-1;N/A;+99KG;M;SF;2015
+7908;2452;Orlando Sanchez;5861;Jared Dopp;DECISION;N/A;-1;-1;N/A;+99KG;M;F;2015
+13856;2452;Orlando Sanchez;5861;Jared Dopp;DECISION;N/A;-1;-1;N/A;+99KG;M;SF;2017
+13918;8069;Pablo Mantovani;188;Augusto Mendes;DECISION;N/A;-1;-1;N/A;66KG;M;4F;2017
+21864;8069;Pablo Mantovani;8866;Thomas Halpin;POINTS;N/A;13;0;N/A;66KG;M;R1;2019
+777;919;Pablo Popovitch;687;Marcio Feitosa;POINTS;N/A;-1;-1;N/A;77KG;M;R1;2003
+1176;919;Pablo Popovitch;52;Renzo Gracie;POINTS;N/A;4;0;N/A;77KG;M;R1;2005
+1181;919;Pablo Popovitch;1031;Jake Shields;POINTS;N/A;5;0;N/A;77KG;M;SF;2005
+1691;919;Pablo Popovitch;144;Andre Galvao;POINTS;N/A;-1;-1;N/A;77KG;M;SF;2007
+2257;919;Pablo Popovitch;16;Marcelo Garcia;POINTS;N/A;3;0;N/A;77KG;M;F;2009
+3270;919;Pablo Popovitch;138;Sergio Moraes;POINTS;N/A;2;0;N/A;88KG;M;4F;2011
+3292;919;Pablo Popovitch;576;Rafael Lovato Jr;POINTS;N/A;-1;-1;N/A;88KG;M;3PLC;2011
+3312;919;Pablo Popovitch;1617;Victor Estima;POINTS;N/A;2;0;N/A;ABS;M;4F;2011
+35012;9344;Paul Schreiner;8105;Tommy Langaker;POINTS;N/A;3;0;N/A;77KG;M;R1;2022
+13917;2999;Paulo Miyao;4996;Geovanny Martinez;POINTS;N/A;8;2;N/A;66KG;M;4F;2017
+13922;2999;Paulo Miyao;8069;Pablo Mantovani;POINTS;N/A;10;0;N/A;66KG;M;3RD;2017
+21898;2999;Paulo Miyao;12003;Tye Ruotolo;POINTS;N/A;4;0;N/A;66KG;M;3RD;2019
+35064;9559;Rida Haisam;224;Roberto Abreu;SUBMISSION;Armbar;-1;-1;N/A;+99KG;M;R1;2022
+5048;224;Roberto Abreu;2452;Orlando Sanchez;POINTS;N/A;-1;-1;N/A;+99KG;M;4F;2013
+5051;224;Roberto Abreu;5861;Jared Dopp;POINTS;N/A;-1;-1;N/A;+99KG;M;3PLC;2013
+5058;224;Roberto Abreu;5649;Gary Tonon;POINTS;N/A;-1;-1;N/A;ABS;M;R1;2013
+5062;224;Roberto Abreu;3009;Keenan Cornelius;POINTS;N/A;-1;-1;N/A;ABS;M;SF;2013
+5065;224;Roberto Abreu;984;Marcus Almeida;POINTS;N/A;10;0;N/A;ABS;M;F;2013
+13855;224;Roberto Abreu;5509;Victor Honorio;DECISION;N/A;-1;-1;N/A;+99KG;M;4F;2017
+13858;224;Roberto Abreu;5861;Jared Dopp;DECISION;N/A;-1;-1;N/A;+99KG;M;3RD;2017
+35090;224;Roberto Abreu;12922;Elder Cruz;POINTS;N/A;3;0;N/A;ABS;M;8F;2022
+35017;10880;Roberto Jimenez;12703;Andy Varela;SUBMISSION;RNC;-1;-1;N/A;77KG;M;R1;2022
+505;195;Robson Moura;727;Alexandre de Freitas;POINTS;N/A;-1;-1;N/A;66KG;M;3PLC;2001
+7919;247;Rodolfo Vieira;6792;Cassio Francis;SUBMISSION;RNC;-1;-1;N/A;99KG;M;4F;2015
+7923;247;Rodolfo Vieira;2416;Felipe Pena;DECISION;N/A;-1;-1;N/A;99KG;M;F;2015
+7995;247;Rodolfo Vieira;576;Rafael Lovato Jr;POINTS;N/A;5;0;N/A;ABS;M;4F;2015
+460;559;Rodrigo Medeiros;550;Roberto Magalhaes;POINTS;N/A;10;0;N/A;ABS;M;R1;2000
+801;505;Roger Gracie;232;Jose Mario Sperry;POINTS;N/A;5;0;N/A;99KG;M;R1;2003
+803;505;Roger Gracie;1817;Rigan Machado;POINTS;N/A;-1;-1;N/A;99KG;M;4F;2003
+1200;505;Roger Gracie;562;Eduardo Telles;SUBMISSION;Armbar;-1;-1;N/A;99KG;M;4F;2005
+1235;505;Roger Gracie;117;Ronaldo Souza;SUBMISSION;RNC;-1;-1;N/A;ABS;M;F;2005
+5019;320;Romulo Barral;3009;Keenan Cornelius;POINTS;N/A;-1;-1;N/A;88KG;M;SF;2013
+5021;320;Romulo Barral;576;Rafael Lovato Jr;POINTS;N/A;-1;-1;N/A;88KG;M;F;2013
+795;117;Ronaldo Souza;278;Ricardo Almeida;POINTS;N/A;6;0;N/A;88KG;M;SF;2003
+1195;117;Ronaldo Souza;112;Demian Maia;POINTS;N/A;0;0;PEN;88KG;M;F;2005
+1232;117;Ronaldo Souza;16;Marcelo Garcia;SUBMISSION;Kimura;-1;-1;N/A;ABS;M;SF;2005
+35060;11499;Roosevelt Sousa;2403;Joao Gabriel Rocha;SUBMISSION;Kneebar;-1;-1;N/A;+99KG;M;R1;2022
+35067;11499;Roosevelt Sousa;9559;Rida Haisam;POINTS;N/A;2;0;N/A;+99KG;M;4F;2022
+21842;7478;Adam Wardzinski;8427;Michael Perez;DECISION;N/A;-1;-1;N/A;88KG;M;R1;2019
+2267;422;Braulio Estima;576;Rafael Lovato Jr;SUBMISSION;Estima lock;-1;-1;N/A;88KG;M;SF;2009
+2269;422;Braulio Estima;144;Andre Galvao;SUBMISSION;Triangle;-1;-1;N/A;88KG;M;F;2009
+2303;422;Braulio Estima;16;Marcelo Garcia;SUBMISSION;Katagatame;-1;-1;N/A;ABS;M;4F;2009
+2306;422;Braulio Estima;733;Vinicius Magalhaes;POINTS;N/A;-1;-1;N/A;ABS;M;SF;2009
+3321;422;Braulio Estima;117;Ronaldo Souza;POINTS;N/A;3;0;N/A;ABS;M;SPF;2011
+13897;428;Celso Vinicius;7247;Enrico Cocco;POINTS;N/A;3;0;N/A;77KG;M;E1;2017
+21856;428;Celso Vinicius;5238;Edwin Najmi;DECISION;N/A;-1;-1;N/A;77KG;M;R1;2019
+3266;410;Claudio Calasans;188;Augusto Mendes;SUBMISSION;Heel hook;-1;-1;N/A;77KG;M;4F;2011
+7987;410;Claudio Calasans;8560;Gabriel Lucas;DECISION;N/A;-1;-1;N/A;ABS;M;R1;2015
+7994;410;Claudio Calasans;733;Vinicius Magalhaes;DECISION;N/A;-1;-1;N/A;ABS;M;4F;2015
+7998;410;Claudio Calasans;1740;Yuri Simoes;DECISION;N/A;-1;-1;N/A;ABS;M;SF;2015
+7968;174;Bruno Frazatto;4996;Geovanny Martinez;POINTS;N/A;2;0;N/A;66KG;M;SF;2015
+13885;8346;Craig Jones;484;Murilo Santana;SUBMISSION;Triangle;-1;-1;N/A;88KG;M;4F;2017
+21845;8346;Craig Jones;11789;Mason Fowler;SUBMISSION;Guillotine;-1;-1;N/A;88KG;M;4F;2019
+21888;8346;Craig Jones;10588;Jon Blank;SUBMISSION;RNC;-1;-1;N/A;88KG;M;SF;2019
+35052;8346;Craig Jones;10705;Kyle Boehm;SUBMISSION;Guillotine;-1;-1;N/A;99KG;M;4F;2022
+35055;8346;Craig Jones;7507;Nicholas Meregali;DECISION;N/A;-1;-1;N/A;99KG;M;SF;2022
+35078;12599;Brianna Ste-Marie;7535;Bianca Basilio;POINTS;N/A;4;0;N/A;60KG;F;SF;2022
+21853;8116;Dante Leon;6354;Jonathan Satava;POINTS;N/A;3;0;N/A;77KG;M;R1;2019
+21859;8116;Dante Leon;358;Lucas Lepri;POINTS;N/A;3;0;N/A;77KG;M;4F;2019
+35025;8116;Dante Leon;9344;Paul Schreiner;SUBMISSION;Armbar;-1;-1;N/A;77KG;M;3RD;2022
+7953;1386;Davi Ramos;446;Gilbert Burns;SUBMISSION;RNC;-1;-1;N/A;77KG;M;SF;2015
+7955;1386;Davi Ramos;358;Lucas Lepri;SUBMISSION;Armbar;-1;-1;N/A;77KG;M;F;2015
+798;4965;David Terrell;278;Ricardo Almeida;SUBMISSION;Footlock;-1;-1;N/A;88KG;M;3PLC;2003
+1701;112;Demian Maia;576;Rafael Lovato Jr;POINTS;N/A;-1;-1;N/A;88KG;M;4F;2007
+1703;112;Demian Maia;477;Tarsis Humpreys;POINTS;N/A;-1;-1;N/A;88KG;M;SF;2007
+34999;10840;Diego Oliveira;12491;Keith Krikorian;SUBMISSION;Footlock;-1;-1;N/A;66KG;M;R1;2022
+35009;10840;Diego Oliveira;11568;Joshua Cisneros;POINTS;N/A;0;0;PEN;66KG;M;3RD;2022
+35002;11823;Diogo Reis;11497;Fabricio Andrey;DECISION;N/A;-1;-1;N/A;66KG;M;4F;2022
+35007;11823;Diogo Reis;11568;Joshua Cisneros;POINTS;N/A;2;0;N/A;66KG;M;SF;2022
+35008;11823;Diogo Reis;9051;Gabriel Sousa;POINTS;N/A;3;0;N/A;66KG;M;F;2022
+767;4317;Eddie Bravo;515;Royler Gracie;SUBMISSION;Triangle;-1;-1;N/A;66KG;M;4F;2003
+826;1369;Dean Lister;9;Marcio Cruz;POINTS;N/A;3;0;N/A;ABS;M;SF;2003
+3298;1369;Dean Lister;644;Joao Assis;SUBMISSION;Heel hook;-1;-1;N/A;99KG;M;F;2011
+5060;1369;Dean Lister;2403;Joao Gabriel Rocha;SUBMISSION;Heel hook;-1;-1;N/A;ABS;M;4F;2013
+13894;2226;DeAlonzio Jackson;8231;Leonardo Saggioro;DECISION;N/A;-1;-1;N/A;77KG;M;E1;2017
+21849;2226;DeAlonzio Jackson;6836;John Combs;POINTS;N/A;5;0;N/A;77KG;M;R1;2019
+21843;6071;Gabriel Arges;6351;Alec Baulding;POINTS;N/A;5;0;N/A;88KG;M;R1;2019
+34996;9051;Gabriel Sousa;12080;Ruan Alvarenga;POINTS;N/A;5;0;N/A;66KG;M;R1;2022
+35005;9051;Gabriel Sousa;12259;Jeremy Skinner;SUBMISSION;Triangle;-1;-1;N/A;66KG;M;4F;2022
+7943;5649;Gary Tonon;5258;Dillon Danis;SUBMISSION;Inside heel hook;-1;-1;N/A;77KG;M;R1;2015
+13903;5649;Gary Tonon;9706;Marcelo Mafra;POINTS;N/A;0;0;PEN;77KG;M;4F;2017
+21858;5649;Gary Tonon;7539;Renato Forasieppi Canuto;POINTS;N/A;0;0;PEN;77KG;M;4F;2019
+21894;5649;Gary Tonon;8116;Dante Leon;SUBMISSION;Outside heel hook;-1;-1;N/A;77KG;M;3RD;2019
+21906;5649;Gary Tonon;5238;Edwin Najmi;SUBMISSION;Inside heel hook;-1;-1;N/A;ABS;M;R1;2019
+35028;11797;Giancarlo Bodoni;7552;Isaque Bahiense;POINTS;N/A;6;0;N/A;88KG;M;R1;2022
+35040;11797;Giancarlo Bodoni;5655;Lucas Daniel Barbosa;SUBMISSION;RNC;-1;-1;N/A;88KG;M;F;2022
+35094;11797;Giancarlo Bodoni;9559;Rida Haisam;SUBMISSION;Shoulder lock;-1;-1;N/A;ABS;M;8F;2022
+7959;4248;Gianni Grippo;7698;Gabriel Marangoni;POINTS;N/A;2;0;N/A;66KG;M;R1;2015
+7946;446;Gilbert Burns;8682;Lachlan Giles;SUBMISSION;Armbar;-1;-1;N/A;77KG;M;R1;2015
+13883;6550;Gordon Ryan;5258;Dillon Danis;DECISION;N/A;-1;-1;N/A;88KG;M;E1;2017
+13887;6550;Gordon Ryan;320;Romulo Barral;SUBMISSION;RNC;-1;-1;N/A;88KG;M;4F;2017
+13891;6550;Gordon Ryan;3009;Keenan Cornelius;SUBMISSION;Guillotine;-1;-1;N/A;88KG;M;F;2017
+13931;6550;Gordon Ryan;224;Roberto Abreu;SUBMISSION;Inside heel hook;-1;-1;N/A;ABS;M;E1;2017
+13935;6550;Gordon Ryan;8346;Craig Jones;SUBMISSION;Katagatame;-1;-1;N/A;ABS;M;4F;2017
+13936;6550;Gordon Ryan;5842;Mahamed Aly;SUBMISSION;Heel hook;-1;-1;N/A;ABS;M;SF;2017
+21833;6550;Gordon Ryan;4310;Tim Spriggs;SUBMISSION;RNC;-1;-1;N/A;99KG;M;4F;2019
+21885;6550;Gordon Ryan;5655;Lucas Daniel Barbosa;POINTS;N/A;3;0;N/A;99KG;M;SF;2019
+21903;6550;Gordon Ryan;11991;Pedro Marinho;SUBMISSION;Outside heel hook;-1;-1;N/A;ABS;M;R1;2019
+21910;6550;Gordon Ryan;5649;Gary Tonon;SUBMISSION;Choke;-1;-1;N/A;ABS;M;4F;2019
+21915;6550;Gordon Ryan;984;Marcus Almeida;POINTS;N/A;0;0;PEN;ABS;M;F;2019
+35070;6550;Gordon Ryan;11499;Roosevelt Sousa;SUBMISSION;Outside heel hook;-1;-1;N/A;+99KG;M;SF;2022
+35072;6550;Gordon Ryan;12110;Nick Rodriguez;SUBMISSION;Outside heel hook;-1;-1;N/A;+99KG;M;F;2022
+2229;1398;Justin Rader;1023;Baret Yoshida;POINTS;N/A;-1;-1;N/A;66KG;M;R1;2009
+4989;1398;Justin Rader;2997;Joao Miyao;POINTS;N/A;-1;-1;N/A;66KG;M;3PLC;2013
+5006;3009;Keenan Cornelius;1523;Clark Gracie;POINTS;N/A;4;2;N/A;88KG;M;R1;2013
+5020;3009;Keenan Cornelius;919;Pablo Popovitch;SUBMISSION;Verbal tap;-1;-1;N/A;88KG;M;3PLC;2013
+5064;3009;Keenan Cornelius;1369;Dean Lister;POINTS;N/A;-1;-1;N/A;ABS;M;3PLC;2013
+7933;3009;Keenan Cornelius;410;Claudio Calasans;POINTS;N/A;2;0;N/A;88KG;M;4F;2015
+13888;3009;Keenan Cornelius;8346;Craig Jones;POINTS;N/A;13;0;N/A;88KG;M;SF;2017
+3265;788;Kron Gracie;484;Murilo Santana;POINTS;N/A;0;0;PEN;77KG;M;4F;2011
+3291;788;Kron Gracie;410;Claudio Calasans;SUBMISSION;Guillotine;-1;-1;N/A;77KG;M;3PLC;2011
+5002;788;Kron Gracie;5649;Gary Tonon;SUBMISSION;RNC;-1;-1;N/A;77KG;M;4F;2013
+7951;358;Lucas Lepri;5649;Gary Tonon;POINTS;N/A;10;0;N/A;77KG;M;4F;2015
+13900;358;Lucas Lepri;6095;Mansher Khera;DECISION;N/A;-1;-1;N/A;77KG;M;4F;2017
+21854;358;Lucas Lepri;8682;Lachlan Giles;POINTS;N/A;3;0;N/A;77KG;M;R1;2019
+21826;5655;Lucas Daniel Barbosa;9959;Perttu Tepponen;POINTS;N/A;3;0;N/A;99KG;M;R1;2019
+21834;5655;Lucas Daniel Barbosa;4430;Patrick Gaudio;DECISION;N/A;-1;-1;N/A;99KG;M;4F;2019
+35027;5655;Lucas Daniel Barbosa;11111;Santeri Lilius;POINTS;N/A;3;0;N/A;88KG;M;R1;2022
+35035;5655;Lucas Daniel Barbosa;7096;Josh Hinger;POINTS;N/A;7;0;N/A;88KG;M;4F;2022
+35039;5655;Lucas Daniel Barbosa;8394;Vagner Rocha;DECISION;N/A;-1;-1;N/A;88KG;M;SF;2022
+21844;5423;Matheus Diniz;11991;Pedro Marinho;POINTS;N/A;5;0;N/A;88KG;M;R1;2019
+21848;5423;Matheus Diniz;6071;Gabriel Arges;DECISION;N/A;-1;-1;N/A;88KG;M;4F;2019
+21889;5423;Matheus Diniz;7096;Josh Hinger;POINTS;N/A;3;0;N/A;88KG;M;SF;2019
+21891;5423;Matheus Diniz;8346;Craig Jones;POINTS;N/A;2;0;N/A;88KG;M;F;2019
+21865;9002;Matheus Gabriel Barros;4996;Geovanny Martinez;DECISION;N/A;-1;-1;N/A;66KG;M;R1;2019
+427;687;Marcio Feitosa;419;Leonardo Vieira;POINTS;N/A;-1;-1;N/A;77KG;M;3PLC;2000
+516;687;Marcio Feitosa;10579;Rodrigo Gracie;POINTS;N/A;-1;-1;N/A;77KG;M;SF;2001
+5050;984;Marcus Almeida;224;Roberto Abreu;POINTS;N/A;-1;-1;N/A;+99KG;M;SF;2013
+5052;984;Marcus Almeida;2403;Joao Gabriel Rocha;SUBMISSION;Heel hook;-1;-1;N/A;+99KG;M;F;2013
+5061;984;Marcus Almeida;5649;Gary Tonon;POINTS;N/A;-1;-1;N/A;ABS;M;4F;2013
+5063;984;Marcus Almeida;1369;Dean Lister;POINTS;N/A;5;0;N/A;ABS;M;SF;2013
+13853;984;Marcus Almeida;4310;Tim Spriggs;SUBMISSION;RNC;-1;-1;N/A;+99KG;M;4F;2017
+13857;984;Marcus Almeida;224;Roberto Abreu;POINTS;N/A;4;0;N/A;+99KG;M;SF;2017
+13859;984;Marcus Almeida;2452;Orlando Sanchez;POINTS;N/A;3;0;N/A;+99KG;M;F;2017
+13938;984;Marcus Almeida;5842;Mahamed Aly;SUBMISSION;Heel hook;-1;-1;N/A;ABS;M;3RD;2017
+21815;984;Marcus Almeida;387;Antonio Braga Neto;POINTS;N/A;2;0;N/A;+99KG;M;R1;2019
+21900;984;Marcus Almeida;12491;Keith Krikorian;SUBMISSION;Armbar;-1;-1;N/A;ABS;M;R1;2019
+21912;984;Marcus Almeida;5842;Mahamed Aly;SUBMISSION;RNC;-1;-1;N/A;ABS;M;SF;2019
+2240;179;Rafael Mendes;419;Leonardo Vieira;SUBMISSION;RNC;-1;-1;N/A;66KG;M;SF;2009
+2242;179;Rafael Mendes;147;Rubens Charles;POINTS;N/A;-1;-1;N/A;66KG;M;F;2009
+3281;179;Rafael Mendes;195;Robson Moura;POINTS;N/A;-1;-1;N/A;66KG;M;SF;2011
+4987;179;Rafael Mendes;2997;Joao Miyao;POINTS;N/A;2;0;N/A;66KG;M;SF;2013
+21852;7539;Renato Forasieppi Canuto;11707;Oliver Taza;POINTS;N/A;2;0;N/A;77KG;M;R1;2019
+2243;725;Ryan Hall;610;Jeff Glover;POINTS;N/A;-1;-1;N/A;66KG;M;3RD;2009
+21869;12003;Tye Ruotolo;8069;Pablo Mantovani;DECISION;N/A;-1;-1;N/A;66KG;M;4F;2019
+35097;12003;Tye Ruotolo;2416;Felipe Pena;POINTS;N/A;0;0;PEN;ABS;M;4F;2022
+21904;4310;Tim Spriggs;5861;Jared Dopp;SUBMISSION;Guillotine;-1;-1;N/A;ABS;M;R1;2019
+21907;4430;Patrick Gaudio;8427;Michael Perez;POINTS;N/A;2;0;N/A;ABS;M;R1;2019
+7936;1740;Yuri Simoes;320;Romulo Barral;POINTS;N/A;3;0;N/A;88KG;M;SF;2015
+7939;1740;Yuri Simoes;3009;Keenan Cornelius;POINTS;N/A;3;0;N/A;88KG;M;F;2015
+7993;1740;Yuri Simoes;1369;Dean Lister;POINTS;N/A;5;3;N/A;ABS;M;4F;2015
+13873;1740;Yuri Simoes;3200;Jackson Sousa;POINTS;N/A;3;0;N/A;99KG;M;SF;2017
+13875;1740;Yuri Simoes;2416;Felipe Pena;POINTS;N/A;2;0;N/A;99KG;M;F;2017
+35089;1740;Yuri Simoes;8682;Lachlan Giles;POINTS;N/A;0;0;PEN;ABS;M;8F;2022
+35099;1740;Yuri Simoes;12110;Nick Rodriguez;DECISION;N/A;-1;-1;N/A;ABS;M;4F;2022
+35101;1740;Yuri Simoes;224;Roberto Abreu;POINTS;N/A;2;0;N/A;ABS;M;SF;2022
+35102;1740;Yuri Simoes;7507;Nicholas Meregali;POINTS;N/A;0;0;PEN;ABS;M;F;2022
+7963;4996;Geovanny Martinez;8525;Alexandre Vieira;SUBMISSION;Armbar;-1;-1;N/A;66KG;M;R1;2015
+5045;5861;Jared Dopp;733;Vinicius Magalhaes;POINTS;N/A;-1;-1;N/A;+99KG;M;4F;2013
+5056;5861;Jared Dopp;1272;Leonardo Nogueira;POINTS;N/A;2;0;N/A;ABS;M;R1;2013
+7897;5861;Jared Dopp;8560;Gabriel Lucas;POINTS;N/A;2;0;N/A;+99KG;M;R1;2015
+7904;5861;Jared Dopp;543;Rodrigo Cavaca;POINTS;N/A;2;0;N/A;+99KG;M;4F;2015
+13852;5861;Jared Dopp;733;Vinicius Magalhaes;DECISION;N/A;-1;-1;N/A;+99KG;M;4F;2017
+13934;5842;Mahamed Aly;5258;Dillon Danis;POINTS;N/A;0;0;PEN;ABS;M;4F;2017
+21909;5842;Mahamed Aly;4310;Tim Spriggs;POINTS;N/A;0;0;PEN;ABS;M;4F;2019
+13893;6095;Mansher Khera;7686;Sergio Ardila-Ibarra;POINTS;N/A;2;0;N/A;77KG;M;E1;2017
+1160;1369;Dean Lister;88;Jean Jacques Machado;POINTS;N/A;-1;-1;N/A;ABS;M;SPF;2005
+13861;8494;Abdurakhman Bilarov;1031;Jake Shields;POINTS;N/A;5;0;N/A;99KG;M;E1;2017
+4991;4328;AJ Agazarm;2226;DeAlonzio Jackson;DECISION;N/A;-1;-1;N/A;77KG;M;R1;2013
+13919;4328;AJ Agazarm;11223;Ethan Crelinsten;POINTS;N/A;2;0;N/A;66KG;M;4F;2017
+13921;4328;AJ Agazarm;8069;Pablo Mantovani;DECISION;N/A;-1;-1;N/A;66KG;M;SF;2017
+1715;84;Alexandre Ribeiro;422;Braulio Estima;POINTS;N/A;-1;-1;N/A;99KG;M;F;2007
+2280;84;Alexandre Ribeiro;733;Vinicius Magalhaes;POINTS;N/A;-1;-1;N/A;99KG;M;SF;2009
+2297;84;Alexandre Ribeiro;6167;Ricco Rodriguez;SUBMISSION;Armbar;-1;-1;N/A;ABS;M;R1;2009
+2301;84;Alexandre Ribeiro;144;Andre Galvao;POINTS;N/A;-1;-1;N/A;ABS;M;4F;2009
+3318;84;Alexandre Ribeiro;484;Murilo Santana;POINTS;N/A;2;0;N/A;ABS;M;3PLC;2011
+13881;84;Alexandre Ribeiro;10531;John Salter;SUBMISSION;Armbar;-1;-1;N/A;88KG;M;E1;2017
+13890;84;Alexandre Ribeiro;8346;Craig Jones;POINTS;N/A;2;0;N/A;88KG;M;3RD;2017
+35082;12639;Amy Campo;11762;Elisabeth Clay;POINTS;N/A;3;0;N/A;+60KG;F;4F;2022
+35086;12639;Amy Campo;595;Gabrielle Garcia;POINTS;N/A;2;0;N/A;+60KG;F;SF;2022
+1665;144;Andre Galvao;573;Fabricio Werdum;DECISION;N/A;-1;-1;N/A;ABS;M;4F;2007
+3297;144;Andre Galvao;431;Rousimar Palhares;POINTS;N/A;9;4;N/A;88KG;M;F;2011
+3315;144;Andre Galvao;138;Sergio Moraes;POINTS;N/A;6;0;N/A;ABS;M;4F;2011
+3316;144;Andre Galvao;484;Murilo Santana;POINTS;N/A;0;0;PEN;ABS;M;SF;2011
+3319;144;Andre Galvao;919;Pablo Popovitch;SUBMISSION;Toe hold;-1;-1;N/A;ABS;M;F;2011
+5067;144;Andre Galvao;422;Braulio Estima;SUBMISSION;RNC;-1;-1;N/A;ABS;M;SPF;2013
+8000;144;Andre Galvao;224;Roberto Abreu;POINTS;N/A;6;0;N/A;ABS;M;SPF;2015
+21916;144;Andre Galvao;2416;Felipe Pena;POINTS;N/A;2;0;N/A;ABS;M;SPF;2019
+3233;188;Augusto Mendes;8394;Vagner Rocha;SUBMISSION;Footlock;-1;-1;N/A;77KG;M;R1;2011
+7965;188;Augusto Mendes;7442;Edward Cummings;POINTS;N/A;-1;-1;N/A;66KG;M;4F;2015
+7970;188;Augusto Mendes;4996;Geovanny Martinez;SUBMISSION;Toe hold;-1;-1;N/A;66KG;M;3RD;2015
+21863;188;Augusto Mendes;12491;Keith Krikorian;SUBMISSION;Katagatame;-1;-1;N/A;66KG;M;R1;2019
+21872;188;Augusto Mendes;9002;Matheus Gabriel Barros;DECISION;N/A;-1;-1;N/A;66KG;M;4F;2019
+503;1023;Baret Yoshida;727;Alexandre de Freitas;SUBMISSION;Kneebar;-1;-1;N/A;66KG;M;SF;2001
+771;1023;Baret Yoshida;727;Alexandre de Freitas;POINTS;N/A;9;6;N/A;66KG;M;SF;2003
+21896;188;Augusto Mendes;2999;Paulo Miyao;DECISION;N/A;-1;-1;N/A;66KG;M;SF;2019
+35043;12922;Elder Cruz;4430;Patrick Gaudio;DECISION;N/A;-1;-1;N/A;99KG;M;R1;2022
+34998;11497;Fabricio Andrey;12950;Cole Abate;DECISION;N/A;-1;-1;N/A;66KG;M;R1;2022
+828;573;Fabricio Werdum;9;Marcio Cruz;POINTS;N/A;6;0;N/A;ABS;M;3PLC;2003
+1215;573;Fabricio Werdum;3099;Marcio Corleta;POINTS;N/A;2;0;N/A;+99KG;M;4F;2005
+2293;573;Fabricio Werdum;224;Roberto Abreu;POINTS;N/A;-1;-1;N/A;+99KG;M;F;2009
+3252;573;Fabricio Werdum;1757;Alexander Trans;POINTS;N/A;2;0;N/A;+99KG;M;R1;2011
+3289;573;Fabricio Werdum;224;Roberto Abreu;POINTS;N/A;-1;-1;N/A;+99KG;M;SF;2011
+35079;9404;Ffion Davies;12599;Brianna Ste-Marie;POINTS;N/A;10;0;N/A;60KG;F;F;2022
+7912;2416;Felipe Pena;926;Roberto Alencar;POINTS;N/A;3;0;N/A;99KG;M;R1;2015
+7922;2416;Felipe Pena;644;Joao Assis;POINTS;N/A;9;0;N/A;99KG;M;SF;2015
+13868;2416;Felipe Pena;8494;Abdurakhman Bilarov;POINTS;N/A;5;0;N/A;99KG;M;4F;2017
+13872;2416;Felipe Pena;576;Rafael Lovato Jr;DECISION;N/A;-1;-1;N/A;99KG;M;SF;2017
+13925;2416;Felipe Pena;428;Celso Vinicius;POINTS;N/A;6;0;N/A;ABS;M;E1;2017
+13937;2416;Felipe Pena;984;Marcus Almeida;SUBMISSION;RNC;-1;-1;N/A;ABS;M;SF;2017
+35092;2416;Felipe Pena;10880;Roberto Jimenez;POINTS;N/A;13;2;N/A;ABS;M;8F;2022
+2292;573;Fabricio Werdum;481;Saulo Ribeiro;POINTS;N/A;-1;-1;N/A;+99KG;M;SF;2009
+13939;2416;Felipe Pena;6550;Gordon Ryan;POINTS;N/A;6;0;N/A;ABS;M;F;2017
+13867;3200;Jackson Sousa;7502;Paul Ardila-Ibarra;POINTS;N/A;0;0;PEN;99KG;M;E1;2017
+13871;3200;Jackson Sousa;644;Joao Assis;DECISION;N/A;-1;-1;N/A;99KG;M;4F;2017
+13874;3200;Jackson Sousa;576;Rafael Lovato Jr;DECISION;N/A;-1;-1;N/A;99KG;M;3RD;2017
+21829;1827;James Puopolo;9246;Aaron Johnson;POINTS;N/A;3;0;N/A;99KG;M;R1;2019
+1183;1031;Jake Shields;292;Leonardo Santos;SUBMISSION;RNC;-1;-1;N/A;77KG;M;3PLC;2005
+425;88;Jean Jacques Machado;419;Leonardo Vieira;POINTS;N/A;9;0;N/A;77KG;M;SF;2000
+564;88;Jean Jacques Machado;9;Marcio Cruz;SUBMISSION;Footlock;-1;-1;N/A;ABS;M;4F;2001
+4986;2997;Joao Miyao;338;Ricardo Vieira;SUBMISSION;Heel hook;-1;-1;N/A;66KG;M;4F;2013
+5049;2403;Joao Gabriel Rocha;5861;Jared Dopp;POINTS;N/A;-1;-1;N/A;+99KG;M;SF;2013
+7903;2403;Joao Gabriel Rocha;3083;Abraham Marte Messina;POINTS;N/A;3;0;N/A;+99KG;M;4F;2015
+7996;2403;Joao Gabriel Rocha;8394;Vagner Rocha;POINTS;N/A;3;0;N/A;ABS;M;4F;2015
+3287;644;Joao Assis;84;Alexandre Ribeiro;SUBMISSION;RNC;-1;-1;N/A;99KG;M;SF;2011
+7992;2403;Joao Gabriel Rocha;4328;AJ Agazarm;DECISION;N/A;-1;-1;N/A;ABS;M;R1;2015
+21846;10588;Jon Blank;484;Murilo Santana;DECISION;N/A;-1;-1;N/A;88KG;M;4F;2019
+3320;232;Jose Mario Sperry;52;Renzo Gracie;POINTS;N/A;2;0;N/A;ABS;M;SPF;2011
+21840;7096;Josh Hinger;9250;Gabriel Almeida;SUBMISSION;Short choke;-1;-1;N/A;88KG;M;R1;2019
+21847;7096;Josh Hinger;7478;Adam Wardzinski;SUBMISSION;Guillotine;-1;-1;N/A;88KG;M;4F;2019
+21890;7096;Josh Hinger;10588;Jon Blank;POINTS;N/A;3;0;N/A;88KG;M;3RD;2019
+35033;7096;Josh Hinger;12003;Tye Ruotolo;POINTS;N/A;3;2;N/A;88KG;M;R1;2022
+35000;11568;Joshua Cisneros;11223;Ethan Crelinsten;SUBMISSION;Armbar;-1;-1;N/A;66KG;M;R1;2022
+35003;11568;Joshua Cisneros;12751;Sam McNally;DECISION;N/A;-1;-1;N/A;66KG;M;4F;2022
+3235;967;Jonathan Torres;1523;Clark Gracie;POINTS;N/A;2;0;N/A;77KG;M;R1;2011
+5000;967;Jonathan Torres;358;Lucas Lepri;POINTS;N/A;2;0;N/A;77KG;M;4F;2013
+13896;967;Jonathan Torres;8682;Lachlan Giles;POINTS;N/A;2;0;N/A;77KG;M;E1;2017
+13902;967;Jonathan Torres;428;Celso Vinicius;POINTS;N/A;0;0;PEN;77KG;M;4F;2017
+13905;967;Jonathan Torres;5649;Gary Tonon;DECISION;N/A;-1;-1;N/A;77KG;M;SF;2017
+21850;967;Jonathan Torres;9261;Ross Nicholls;POINTS;N/A;0;0;PEN;77KG;M;R1;2019
+21892;967;Jonathan Torres;5649;Gary Tonon;POINTS;N/A;2;0;N/A;77KG;M;SF;2019
+21895;967;Jonathan Torres;8394;Vagner Rocha;POINTS;N/A;3;0;N/A;77KG;M;F;2019
+35016;12005;Kade Ruotolo;8682;Lachlan Giles;SUBMISSION;Armbar;-1;-1;N/A;77KG;M;R1;2022
+35019;12005;Kade Ruotolo;10880;Roberto Jimenez;SUBMISSION;Inside heel hook;-1;-1;N/A;77KG;M;4F;2022
+35023;12005;Kade Ruotolo;9344;Paul Schreiner;SUBMISSION;Armbar;-1;-1;N/A;77KG;M;SF;2022
+21818;8974;Kaynan Duarte;10318;Eldar Rafigaev;SUBMISSION;RNC;-1;-1;N/A;+99KG;M;R1;2019
+21823;8974;Kaynan Duarte;1740;Yuri Simoes;POINTS;N/A;3;0;N/A;+99KG;M;4F;2019
+21882;8974;Kaynan Duarte;984;Marcus Almeida;DECISION;N/A;-1;-1;N/A;+99KG;M;SF;2019
+21884;8974;Kaynan Duarte;12110;Nick Rodriguez;POINTS;N/A;3;0;N/A;+99KG;M;F;2019
+35050;8974;Kaynan Duarte;12922;Elder Cruz;POINTS;N/A;5;2;N/A;99KG;M;4F;2022
+35054;8974;Kaynan Duarte;576;Rafael Lovato Jr;DECISION;N/A;-1;-1;N/A;99KG;M;SF;2022
+35001;9031;Kennedy Maciel;4996;Geovanny Martinez;SUBMISSION;RNC;-1;-1;N/A;66KG;M;R1;2022
+35046;10705;Kyle Boehm;9157;Devhonte Johnson;DECISION;N/A;-1;-1;N/A;99KG;M;R1;2022
+21905;8682;Lachlan Giles;8974;Kaynan Duarte;SUBMISSION;Inside heel hook;-1;-1;N/A;ABS;M;R1;2019
+21914;8682;Lachlan Giles;5842;Mahamed Aly;SUBMISSION;Inside heel hook;-1;-1;N/A;ABS;M;3RD;2019
+513;292;Leonardo Santos;419;Leonardo Vieira;POINTS;N/A;3;0;N/A;77KG;M;4F;2001
+519;292;Leonardo Santos;10579;Rodrigo Gracie;POINTS;N/A;2;0;N/A;77KG;M;3PLC;2001
+420;419;Leonardo Vieira;81;Vitor Ribeiro;POINTS;N/A;-1;-1;N/A;77KG;M;4F;2000
+766;419;Leonardo Vieira;177;Rany Yahya;POINTS;N/A;9;0;N/A;66KG;M;4F;2003
+772;419;Leonardo Vieira;1023;Baret Yoshida;POINTS;N/A;6;0;N/A;66KG;M;F;2003
+1168;419;Leonardo Vieira;177;Rany Yahya;POINTS;N/A;6;0;N/A;66KG;M;F;2005
+1678;419;Leonardo Vieira;610;Jeff Glover;POINTS;N/A;-1;-1;N/A;66KG;M;4F;2007
+3283;419;Leonardo Vieira;410;Claudio Calasans;POINTS;N/A;3;0;N/A;77KG;M;SF;2011
+2239;419;Leonardo Vieira;725;Ryan Hall;SUBMISSION;Guillotine;-1;-1;N/A;66KG;M;4F;2009
+3267;419;Leonardo Vieira;967;Jonathan Torres;POINTS;N/A;2;0;N/A;77KG;M;4F;2011
+5001;419;Leonardo Vieira;4328;AJ Agazarm;DECISION;N/A;-1;-1;N/A;77KG;M;4F;2013
+781;16;Marcelo Garcia;52;Renzo Gracie;POINTS;N/A;9;0;N/A;77KG;M;4F;2003
+782;16;Marcelo Garcia;81;Vitor Ribeiro;SUBMISSION;RNC;-1;-1;N/A;77KG;M;SF;2003
+1182;16;Marcelo Garcia;292;Leonardo Santos;POINTS;N/A;0;0;PEN;77KG;M;SF;2005
+1184;16;Marcelo Garcia;919;Pablo Popovitch;SUBMISSION;Wristlock;-1;-1;N/A;77KG;M;F;2005
+1222;16;Marcelo Garcia;6167;Ricco Rodriguez;SUBMISSION;Heel hook;-1;-1;N/A;ABS;M;R1;2005
+1692;16;Marcelo Garcia;919;Pablo Popovitch;SUBMISSION;North south choke;-1;-1;N/A;77KG;M;F;2007
+3282;16;Marcelo Garcia;788;Kron Gracie;POINTS;N/A;2;0;N/A;77KG;M;SF;2011
+556;9;Marcio Cruz;6167;Ricco Rodriguez;SUBMISSION;Armbar;-1;-1;N/A;+99KG;M;3RD;2001
+560;9;Marcio Cruz;1204;Roberto Traven;POINTS;N/A;-1;-1;N/A;ABS;M;R1;2001
+815;9;Marcio Cruz;573;Fabricio Werdum;POINTS;N/A;-1;-1;N/A;+99KG;M;F;2003
+822;9;Marcio Cruz;16;Marcelo Garcia;POINTS;N/A;6;0;N/A;ABS;M;4F;2003
+21841;11789;Mason Fowler;10501;Valdir Araujo Junior;DECISION;N/A;-1;-1;N/A;88KG;M;R1;2019
+35031;11789;Mason Fowler;9793;Alexandre Jesus;SUBMISSION;Guillotine;-1;-1;N/A;88KG;M;R1;2022
+517;1858;Matt Serra;292;Leonardo Santos;SUBMISSION;RNC;-1;-1;N/A;77KG;M;SF;2001
+35021;12122;Micael Galvao;7539;Renato Forasieppi Canuto;SUBMISSION;Armbar;-1;-1;N/A;77KG;M;4F;2022
+35022;12122;Micael Galvao;8116;Dante Leon;POINTS;N/A;2;0;N/A;77KG;M;SF;2022
+1234;16;Marcelo Garcia;84;Alexandre Ribeiro;SUBMISSION;RNC;-1;-1;N/A;ABS;M;3PLC;2005
+35095;7507;Nicholas Meregali;9180;Vinicius Ferreira;INJURY;N/A;-1;-1;N/A;ABS;M;8F;2022
+3317;919;Pablo Popovitch;84;Alexandre Ribeiro;DECISION;N/A;-1;-1;N/A;ABS;M;SF;2011
+35018;9344;Paul Schreiner;967;Jonathan Torres;POINTS;N/A;4;0;N/A;77KG;M;4F;2022
+5018;576;Rafael Lovato Jr;919;Pablo Popovitch;POINTS;N/A;-1;-1;N/A;88KG;M;SF;2013
+13869;576;Rafael Lovato Jr;5842;Mahamed Aly;POINTS;N/A;3;0;N/A;99KG;M;4F;2017
+35084;11656;Rafaela Guedes;13095;Eleftheria Christodoulou;POINTS;N/A;3;0;N/A;+60KG;F;4F;2022
+35085;11656;Rafaela Guedes;10885;Kendall Reusing;INJURY;N/A;-1;-1;N/A;+60KG;F;SF;2022
+1166;177;Rany Yahya;687;Marcio Feitosa;POINTS;N/A;-1;-1;N/A;66KG;M;SF;2005
+1680;177;Rany Yahya;1023;Baret Yoshida;POINTS;N/A;-1;-1;N/A;66KG;M;SF;2007
+1681;177;Rany Yahya;419;Leonardo Vieira;SUBMISSION;RNC;-1;-1;N/A;66KG;M;F;2007
+2236;177;Rany Yahya;610;Jeff Glover;POINTS;N/A;-1;-1;N/A;66KG;M;4F;2009
+424;52;Renzo Gracie;687;Marcio Feitosa;SUBMISSION;Guillotine;-1;-1;N/A;77KG;M;SF;2000
+426;52;Renzo Gracie;88;Jean Jacques Machado;POINTS;N/A;-1;-1;N/A;77KG;M;F;2000
+462;278;Ricardo Almeida;81;Vitor Ribeiro;SUBMISSION;Kneebar;-1;-1;N/A;ABS;M;4F;2000
+465;278;Ricardo Almeida;559;Rodrigo Medeiros;POINTS;N/A;5;0;N/A;ABS;M;3PLC;2000
+543;278;Ricardo Almeida;1369;Dean Lister;POINTS;N/A;3;0;N/A;99KG;M;4F;2001
+546;93;Ricardo Arona;278;Ricardo Almeida;POINTS;N/A;-1;-1;N/A;99KG;M;F;2001
+570;93;Ricardo Arona;88;Jean Jacques Machado;POINTS;N/A;3;0;N/A;ABS;M;F;2001
+434;591;Ricardo Liborio;550;Roberto Magalhaes;POINTS;N/A;9;0;N/A;88KG;M;4F;2000
+438;591;Ricardo Liborio;720;Jorge Patino;INJURY;N/A;-1;-1;N/A;88KG;M;SF;2000
+565;93;Ricardo Arona;481;Saulo Ribeiro;POINTS;N/A;2;0;N/A;ABS;M;4F;2001
+21867;10357;Richard Alarcon;4248;Gianni Grippo;POINTS;N/A;4;0;N/A;66KG;M;R1;2019
+35098;224;Roberto Abreu;10159;Victor Hugo;POINTS;N/A;2;0;N/A;ABS;M;4F;2022
+3261;195;Robson Moura;725;Ryan Hall;POINTS;N/A;3;0;N/A;66KG;M;4F;2011
+808;505;Roger Gracie;84;Alexandre Ribeiro;POINTS;N/A;3;0;N/A;99KG;M;3PLC;2003
+1233;505;Roger Gracie;84;Alexandre Ribeiro;SUBMISSION;RNC;-1;-1;N/A;ABS;M;SF;2005
+5017;320;Romulo Barral;875;Lucas Leite;POINTS;N/A;-1;-1;N/A;88KG;M;4F;2013
+3284;431;Rousimar Palhares;576;Rafael Lovato Jr;SUBMISSION;Heel hook;-1;-1;N/A;88KG;M;SF;2011
+313;515;Royler Gracie;727;Alexandre de Freitas;SUBMISSION;Leg lock;-1;-1;N/A;66KG;M;F;1999
+502;515;Royler Gracie;195;Robson Moura;POINTS;N/A;2;0;N/A;66KG;M;SF;2001
+773;515;Royler Gracie;727;Alexandre de Freitas;POINTS;N/A;8;0;N/A;66KG;M;3PLC;2003
+2241;147;Rubens Charles;177;Rany Yahya;SUBMISSION;Kimura;-1;-1;N/A;66KG;M;SF;2009
+3262;147;Rubens Charles;1023;Baret Yoshida;POINTS;N/A;-1;-1;N/A;66KG;M;4F;2011
+3280;147;Rubens Charles;610;Jeff Glover;POINTS;N/A;6;0;N/A;66KG;M;SF;2011
+4983;147;Rubens Charles;4163;Marcio Andre Barbosa Junior;POINTS;N/A;3;0;N/A;66KG;M;4F;2013
+7969;147;Rubens Charles;188;Augusto Mendes;DECISION;N/A;-1;-1;N/A;66KG;M;SF;2015
+34995;12751;Sam McNally;5649;Gary Tonon;POINTS;N/A;3;0;N/A;66KG;M;R1;2022
+440;481;Saulo Ribeiro;591;Ricardo Liborio;POINTS;N/A;-1;-1;N/A;88KG;M;F;2000
+530;481;Saulo Ribeiro;12;Antonio Schembri;POINTS;N/A;-1;-1;N/A;88KG;M;SF;2001
+796;481;Saulo Ribeiro;4965;David Terrell;DECISION;N/A;-1;-1;N/A;88KG;M;SF;2003
+1189;481;Saulo Ribeiro;720;Jorge Patino;POINTS;N/A;10;0;N/A;88KG;M;4F;2005
+2289;481;Saulo Ribeiro;320;Romulo Barral;POINTS;N/A;-1;-1;N/A;+99KG;M;4F;2009
+3310;138;Sergio Moraes;387;Antonio Braga Neto;SUBMISSION;Footlock;-1;-1;N/A;ABS;M;R1;2011
+1705;477;Tarsis Humpreys;320;Romulo Barral;SUBMISSION;Footlock;-1;-1;N/A;88KG;M;3PLC;2007
+13920;147;Rubens Charles;2999;Paulo Miyao;POINTS;N/A;0;0;N/A;66KG;M;SF;2017
+7971;147;Rubens Charles;174;Bruno Frazatto;POINTS;N/A;3;0;N/A;66KG;M;F;2015
+13901;8394;Vagner Rocha;2226;DeAlonzio Jackson;DECISION;N/A;-1;-1;N/A;77KG;M;4F;2017
+13906;8394;Vagner Rocha;5649;Gary Tonon;POINTS;N/A;2;0;N/A;77KG;M;3RD;2017
+21860;8394;Vagner Rocha;428;Celso Vinicius;DECISION;N/A;-1;-1;N/A;77KG;M;4F;2019
+35037;8394;Vagner Rocha;11991;Pedro Marinho;DECISION;N/A;-1;-1;N/A;88KG;M;4F;2022
+3307;1617;Victor Estima;644;Joao Assis;POINTS;N/A;2;0;N/A;ABS;M;R1;2011
+21814;10159;Victor Hugo;5861;Jared Dopp;POINTS;N/A;4;0;N/A;+99KG;M;R1;2019
+21886;9180;Vinicius Ferreira;733;Vinicius Magalhaes;POINTS;N/A;2;0;N/A;99KG;M;SF;2019
+35044;9180;Vinicius Ferreira;7502;Paul Ardila-Ibarra;POINTS;N/A;0;0;PEN;99KG;M;R1;2022
+2277;733;Vinicius Magalhaes;9;Marcio Cruz;SUBMISSION;Armbar;-1;-1;N/A;99KG;M;4F;2009
+3299;733;Vinicius Magalhaes;573;Fabricio Werdum;POINTS;N/A;2;0;N/A;+99KG;M;F;2011
+7907;733;Vinicius Magalhaes;2403;Joao Gabriel Rocha;SUBMISSION;Heel hook;-1;-1;N/A;+99KG;M;3RD;2015
+7986;733;Vinicius Magalhaes;5649;Gary Tonon;POINTS;N/A;0;0;PEN;ABS;M;R1;2015
+779;81;Vitor Ribeiro;919;Pablo Popovitch;POINTS;N/A;-1;-1;N/A;77KG;M;4F;2003
+2307;422;Braulio Estima;84;Alexandre Ribeiro;INJURY;N/A;-1;-1;N/A;ABS;M;F;2009
+21877;7535;Bianca Basilio;9404;Ffion Davies;SUBMISSION;Toe hold;-1;-1;N/A;60KG;F;F;2019
+1192;112;Demian Maia;481;Saulo Ribeiro;POINTS;N/A;0;0;PEN;88KG;M;SF;2005
+35004;10840;Diego Oliveira;9031;Kennedy Maciel;SUBMISSION;Z Lock;-1;-1;N/A;66KG;M;4F;2022
+35006;9051;Gabriel Sousa;10840;Diego Oliveira;DECISION;N/A;-1;-1;N/A;66KG;M;SF;2022
+7954;446;Gilbert Burns;2107;Otavio Sousa;POINTS;N/A;6;0;N/A;77KG;M;3RD;2015
+13889;6550;Gordon Ryan;84;Alexandre Ribeiro;DECISION;N/A;-1;-1;N/A;88KG;M;SF;2017
+21887;6550;Gordon Ryan;9180;Vinicius Ferreira;SUBMISSION;Choke;-1;-1;N/A;99KG;M;F;2019
+35066;6550;Gordon Ryan;10159;Victor Hugo;POINTS;N/A;8;0;N/A;+99KG;M;4F;2022
+5003;788;Kron Gracie;967;Jonathan Torres;SUBMISSION;Armbar;-1;-1;N/A;77KG;M;SF;2013
+5005;788;Kron Gracie;2107;Otavio Sousa;SUBMISSION;Guillotine;-1;-1;N/A;77KG;M;F;2013
+518;687;Marcio Feitosa;1858;Matt Serra;POINTS;N/A;-1;-1;N/A;77KG;M;F;2001
+13932;984;Marcus Almeida;84;Alexandre Ribeiro;POINTS;N/A;3;0;N/A;ABS;M;4F;2017
+35015;7539;Renato Forasieppi Canuto;11735;Nicky Ryan;POINTS;N/A;5;0;N/A;77KG;M;R1;2022
+3220;179;Rafael Mendes;174;Bruno Frazatto;POINTS;N/A;6;0;N/A;66KG;M;R1;2011
+21866;12003;Tye Ruotolo;174;Bruno Frazatto;POINTS;N/A;2;0;N/A;66KG;M;R1;2019
+770;419;Leonardo Vieira;4317;Eddie Bravo;POINTS;N/A;16;0;N/A;66KG;M;SF;2003
+5034;644;Joao Assis;1272;Leonardo Nogueira;SUBMISSION;Heel hook;-1;-1;N/A;99KG;M;SF;2013
+35024;12005;Kade Ruotolo;12122;Micael Galvao;SUBMISSION;Inside heel hook;-1;-1;N/A;77KG;M;F;2022
+34994;11823;Diogo Reis;9401;Ashley Williams;POINTS;N/A;2;0;N/A;66KG;M;R1;2022
+35034;11797;Giancarlo Bodoni;5423;Matheus Diniz;SUBMISSION;Triangle;-1;-1;N/A;88KG;M;4F;2022
+21913;6550;Gordon Ryan;8682;Lachlan Giles;SUBMISSION;RNC;-1;-1;N/A;ABS;M;SF;2019
+35103;6550;Gordon Ryan;144;Andre Galvao;SUBMISSION;RNC;-1;-1;N/A;ABS;M;SPF;2022
+4981;1398;Justin Rader;188;Augusto Mendes;DECISION;N/A;-1;-1;N/A;66KG;M;R1;2013
+13904;358;Lucas Lepri;8394;Vagner Rocha;DECISION;N/A;-1;-1;N/A;77KG;M;SF;2017
+21908;984;Marcus Almeida;9246;Aaron Johnson;POINTS;N/A;3;0;N/A;ABS;M;4F;2019
+3295;179;Rafael Mendes;147;Rubens Charles;POINTS;N/A;-1;-1;N/A;66KG;M;F;2011
+7967;4996;Geovanny Martinez;610;Jeff Glover;POINTS;N/A;5;0;N/A;66KG;M;4F;2015
+35063;6805;Max Gimenis;2452;Orlando Sanchez;SUBMISSION;Verbal tap;-1;-1;N/A;+99KG;M;R1;2022
+804;84;Alexandre Ribeiro;1369;Dean Lister;POINTS;N/A;8;0;N/A;99KG;M;4F;2003
+13913;4328;AJ Agazarm;11735;Nicky Ryan;POINTS;N/A;2;0;N/A;66KG;M;E1;2017
+3285;144;Andre Galvao;919;Pablo Popovitch;POINTS;N/A;2;0;N/A;88KG;M;SF;2011
+13956;144;Andre Galvao;410;Claudio Calasans;POINTS;N/A;14;0;N/A;ABS;M;SPF;2017
+13912;188;Augusto Mendes;8536;Yuta Shimada;POINTS;N/A;4;0;N/A;66KG;M;E1;2017
+35068;2416;Felipe Pena;6805;Max Gimenis;SUBMISSION;RNC;-1;-1;N/A;+99KG;M;4F;2022
+3290;610;Jeff Glover;195;Robson Moura;SUBMISSION;Guillotine;-1;-1;N/A;66KG;M;3PLC;2011
+5036;644;Joao Assis;1369;Dean Lister;POINTS;N/A;5;0;N/A;99KG;M;F;2013
+34997;12259;Jeremy Skinner;4328;AJ Agazarm;DECISION;N/A;-1;-1;N/A;66KG;M;R1;2022
+13907;967;Jonathan Torres;358;Lucas Lepri;POINTS;N/A;3;0;N/A;77KG;M;F;2017
+21857;967;Jonathan Torres;2226;DeAlonzio Jackson;POINTS;N/A;3;0;N/A;77KG;M;4F;2019
+35056;8974;Kaynan Duarte;8346;Craig Jones;POINTS;N/A;12;0;N/A;99KG;M;F;2022
+21897;9031;Kennedy Maciel;12003;Tye Ruotolo;SUBMISSION;RNC;-1;-1;N/A;66KG;M;SF;2019
+21911;8682;Lachlan Giles;4430;Patrick Gaudio;SUBMISSION;Inside heel hook;-1;-1;N/A;ABS;M;4F;2019
+3264;16;Marcelo Garcia;1617;Victor Estima;SUBMISSION;Guillotine;-1;-1;N/A;77KG;M;4F;2011
+13899;9706;Marcelo Mafra;11707;Oliver Taza;POINTS;N/A;2;0;N/A;77KG;M;E1;2017
+514;1858;Matt Serra;88;Jean Jacques Machado;POINTS;N/A;-1;-1;N/A;77KG;M;4F;2001
+35013;12122;Micael Galvao;11707;Oliver Taza;POINTS;N/A;5;0;N/A;77KG;M;R1;2022
+7940;2107;Otavio Sousa;4328;AJ Agazarm;SUBMISSION;RNC;-1;-1;N/A;77KG;M;R1;2015
+21870;2999;Paulo Miyao;11735;Nicky Ryan;POINTS;N/A;2;0;N/A;66KG;M;4F;2019
+342;278;Ricardo Almeida;1817;Rigan Machado;SUBMISSION;Choke;-1;-1;N/A;99KG;M;3PLC;1999
+7921;247;Rodolfo Vieira;84;Alexandre Ribeiro;POINTS;N/A;6;0;N/A;99KG;M;SF;2015
+13882;320;Romulo Barral;9758;Kit Dale;SUBMISSION;Short choke;-1;-1;N/A;88KG;M;E1;2017
+413;515;Royler Gracie;727;Alexandre de Freitas;POINTS;N/A;5;0;N/A;66KG;M;F;2000
+4990;147;Rubens Charles;179;Rafael Mendes;DECISION;N/A;-1;-1;N/A;66KG;M;F;2013
+794;481;Saulo Ribeiro;559;Rodrigo Medeiros;POINTS;N/A;2;0;N/A;88KG;M;4F;2003
+797;481;Saulo Ribeiro;117;Ronaldo Souza;POINTS;N/A;3;0;N/A;88KG;M;F;2003
+4988;147;Rubens Charles;1398;Justin Rader;POINTS;N/A;-1;-1;N/A;66KG;M;SF;2013
+7991;8394;Vagner Rocha;320;Romulo Barral;POINTS;N/A;2;0;N/A;ABS;M;R1;2015
+21893;8394;Vagner Rocha;8116;Dante Leon;DECISION;N/A;-1;-1;N/A;77KG;M;SF;2019
+35091;10159;Victor Hugo;11497;Fabricio Andrey;SUBMISSION;Katagatame;-1;-1;N/A;ABS;M;8F;2022
+21832;9180;Vinicius Ferreira;7502;Paul Ardila-Ibarra;POINTS;N/A;0;0;PEN;99KG;M;R1;2019
+21836;9180;Vinicius Ferreira;3200;Jackson Sousa;DECISION;N/A;-1;-1;N/A;99KG;M;4F;2019
+2273;733;Vinicius Magalhaes;543;Rodrigo Cavaca;SUBMISSION;Heel hook;-1;-1;N/A;99KG;M;R1;2009
+2296;733;Vinicius Magalhaes;1369;Dean Lister;POINTS;N/A;-1;-1;N/A;ABS;M;R1;2009
+21835;733;Vinicius Magalhaes;1827;James Puopolo;POINTS;N/A;2;0;N/A;99KG;M;4F;2019
+13898;5649;Gary Tonon;4542;Felipe Cesar;POINTS;N/A;2;0;N/A;77KG;M;E1;2017
+2238;179;Rafael Mendes;1398;Justin Rader;SUBMISSION;Anaconda;-1;-1;N/A;66KG;M;4F;2009
+3260;179;Rafael Mendes;1398;Justin Rader;SUBMISSION;RNC;-1;-1;N/A;66KG;M;4F;2011
+21862;11735;Nicky Ryan;7002;Shane Hill-Taylor;POINTS;N/A;2;0;N/A;66KG;M;R1;2019
+1229;505;Roger Gracie;573;Fabricio Werdum;SUBMISSION;RNC;-1;-1;N/A;ABS;M;4F;2005
+13877;8346;Craig Jones;1188;Leandro Lo;SUBMISSION;RNC;-1;-1;N/A;88KG;M;E1;2017
+3286;1369;Dean Lister;247;Rodolfo Vieira;SUBMISSION;Heel hook;-1;-1;N/A;99KG;M;SF;2011
+7906;5861;Jared Dopp;2403;Joao Gabriel Rocha;POINTS;N/A;-1;-1;N/A;+99KG;M;SF;2015
+35093;12003;Tye Ruotolo;11991;Pedro Marinho;SUBMISSION;RNC;-1;-1;N/A;ABS;M;8F;2022
+35045;8346;Craig Jones;12236;Joao Costa;SUBMISSION;Armbar;-1;-1;N/A;99KG;M;R1;2022
+21901;9246;Aaron Johnson;10588;Jon Blank;SUBMISSION;Footlock;-1;-1;N/A;ABS;M;R1;2019
+1660;144;Andre Galvao;1023;Baret Yoshida;POINTS;N/A;-1;-1;N/A;ABS;M;R1;2007
+7997;2403;Joao Gabriel Rocha;247;Rodolfo Vieira;POINTS;N/A;2;0;N/A;ABS;M;SF;2015
+3234;419;Leonardo Vieira;7247;Enrico Cocco;POINTS;N/A;6;0;N/A;77KG;M;R1;2011
+404;515;Royler Gracie;1023;Baret Yoshida;POINTS;N/A;2;0;N/A;66KG;M;R1;2000
+504;515;Royler Gracie;1023;Baret Yoshida;POINTS;N/A;2;0;N/A;66KG;M;F;2001
+1657;477;Tarsis Humpreys;422;Braulio Estima;POINTS;N/A;-1;-1;N/A;ABS;M;R1;2007
+21855;8394;Vagner Rocha;8528;Servio Tulio;SUBMISSION;Armbar;-1;-1;N/A;77KG;M;R1;2019
+21821;984;Marcus Almeida;10159;Victor Hugo;POINTS;N/A;3;0;N/A;+99KG;M;4F;2019
+7964;147;Rubens Charles;4248;Gianni Grippo;POINTS;N/A;3;0;N/A;66KG;M;4F;2015
+7999;410;Claudio Calasans;2403;Joao Gabriel Rocha;POINTS;N/A;0;0;PEN;ABS;M;F;2015
+21899;188;Augusto Mendes;9031;Kennedy Maciel;POINTS;N/A;3;0;N/A;66KG;M;F;2019
+13933;2416;Felipe Pena;5509;Victor Honorio;POINTS;N/A;12;0;N/A;ABS;M;4F;2017
+569;88;Jean Jacques Machado;278;Ricardo Almeida;POINTS;N/A;3;0;N/A;ABS;M;SF;2001
+3273;644;Joao Assis;387;Antonio Braga Neto;SUBMISSION;Footlock;-1;-1;N/A;99KG;M;4F;2011
+3296;16;Marcelo Garcia;419;Leonardo Vieira;SUBMISSION;Triangle;-1;-1;N/A;77KG;M;F;2011
+13923;147;Rubens Charles;4328;AJ Agazarm;POINTS;N/A;3;0;N/A;66KG;M;F;2017
+823;1369;Dean Lister;481;Saulo Ribeiro;SUBMISSION;Kneebar;-1;-1;N/A;ABS;M;4F;2003
+35087;12639;Amy Campo;11656;Rafaela Guedes;POINTS;N/A;3;2;N/A;+60KG;F;F;2022
+1203;505;Roger Gracie;84;Alexandre Ribeiro;SUBMISSION;RNC;-1;-1;N/A;99KG;M;SF;2005
+21871;9031;Kennedy Maciel;10357;Richard Alarcon;POINTS;N/A;2;0;N/A;66KG;M;4F;2019
+2252;16;Marcelo Garcia;788;Kron Gracie;SUBMISSION;Guillotine;-1;-1;N/A;77KG;M;4F;2009
+35051;576;Rafael Lovato Jr;9180;Vinicius Ferreira;POINTS;N/A;2;0;N/A;99KG;M;4F;2022
+7952;358;Lucas Lepri;2107;Otavio Sousa;POINTS;N/A;4;0;N/A;77KG;M;SF;2015
+13878;484;Murilo Santana;1526;James Brasco;POINTS;N/A;2;0;N/A;88KG;M;E1;2017
+2254;919;Pablo Popovitch;1322;Gregor Gracie;POINTS;N/A;3;0;N/A;77KG;M;SF;2009
+452;1817;Rigan Machado;3357;Jose Mario Queiroga;POINTS;N/A;3;0;N/A;+99KG;M;R1;2000
+3294;224;Roberto Abreu;1329;Gerardi Rinaldi;SUBMISSION;Kneebar;-1;-1;N/A;+99KG;M;3PLC;2011
+3274;247;Rodolfo Vieira;911;Antonio Peinado;POINTS;N/A;5;0;N/A;99KG;M;4F;2011
+1221;505;Roger Gracie;1319;Shinya Aoki;SUBMISSION;Footlock;-1;-1;N/A;ABS;M;R1;2005
+1702;320;Romulo Barral;7808;Christian Moriarty;SUBMISSION;Heel hook;-1;-1;N/A;88KG;M;4F;2007
+787;117;Ronaldo Souza;6683;Ryan Gracie;POINTS;N/A;5;0;N/A;88KG;M;R1;2003
+2308;117;Ronaldo Souza;378;Robert Drysdale;POINTS;N/A;8;0;N/A;ABS;M;SPF;2009
+13951;7535;Bianca Basilio;7106;Talita Alencar;DECISION;N/A;-1;-1;N/A;60KG;F;4F;2017
+2265;422;Braulio Estima;1526;James Brasco;POINTS;N/A;-1;-1;N/A;88KG;M;4F;2009
+7956;174;Bruno Frazatto;1774;Mark Ramos;SUBMISSION;RNC;-1;-1;N/A;66KG;M;R1;2015
+7949;1386;Davi Ramos;5061;Gabriel Rollo;POINTS;N/A;3;0;N/A;77KG;M;4F;2015
+1706;112;Demian Maia;1044;Flavio Almeida;SUBMISSION;Armbar;-1;-1;N/A;88KG;M;F;2007
+762;4317;Eddie Bravo;620;Gustavo Dantas;SUBMISSION;RNC;-1;-1;N/A;66KG;M;R1;2003
+3251;1369;Dean Lister;1167;Augusto Ferrari;POINTS;N/A;2;0;N/A;99KG;M;R1;2011
+3275;1369;Dean Lister;8241;Radoslaw Turek;SUBMISSION;Footlock;-1;-1;N/A;99KG;M;4F;2011
+3322;595;Gabrielle Garcia;1050;Penny Thomas;SUBMISSION;Americana;-1;-1;N/A;+60KG;F;SF;2011
+13940;595;Gabrielle Garcia;7012;Amanda Alequin / Santana;SUBMISSION;Toe hold;-1;-1;N/A;+60KG;F;4F;2017
+7979;2444;Mackenzie Dern;823;Michelle Nicolini;POINTS;N/A;4;4;PEN;60KG;F;F;2015
+422;687;Marcio Feitosa;745;Carlos Machado;POINTS;N/A;2;0;N/A;77KG;M;4F;2000
+21827;4310;Tim Spriggs;8514;Fellipe Andrew;SUBMISSION;Guillotine;-1;-1;N/A;99KG;M;R1;2019
+13952;7535;Bianca Basilio;-1;E. Karppinen;DECISION;N/A;-1;-1;N/A;60KG;F;SF;2017
+3246;387;Antonio Braga Neto;3592;Igor Praporschchikov;SUBMISSION;Triangle;-1;-1;N/A;99KG;M;R1;2011
+1709;422;Braulio Estima;5463;Tomas Szczerek;SUBMISSION;Armbar;-1;-1;N/A;99KG;M;R1;2007
+1713;422;Braulio Estima;3592;A. Cacareco;SUBMISSION;Triangle;-1;-1;N/A;99KG;M;SF;2007
+2259;422;Braulio Estima;4302;Yuji Arai;SUBMISSION;RNC;-1;-1;N/A;88KG;M;R1;2009
+2299;422;Braulio Estima;5463;Janne-Pekka;SUBMISSION;Armbar;-1;-1;N/A;ABS;M;R1;2009
+3232;410;Claudio Calasans;-1;Daniel Strauss;SUBMISSION;Kneebar;-1;-1;N/A;77KG;M;R1;2011
+7931;410;Claudio Calasans;-1;M. Perez;DECISION;N/A;-1;-1;N/A;88KG;M;R1;2015
+21875;7535;Bianca Basilio;-1;Elvira Karpinnen;POINTS;N/A;2;0;N/A;60KG;F;SF;2019
+35073;7535;Bianca Basilio;-1;Julia Maele;SUBMISSION;Short choke;-1;-1;N/A;60KG;F;4F;2022
+13930;8346;Craig Jones;6438;Chael Sonnen;SUBMISSION;Outside heel hook;-1;-1;N/A;ABS;M;E1;2017
+21837;8346;Craig Jones;6438;Ben Dyson;SUBMISSION;Inside heel hook;-1;-1;N/A;88KG;M;R1;2019
+35074;12599;Brianna Ste-Marie;-1;Elvira Karppinen;POINTS;N/A;3;0;N/A;60KG;F;4F;2022
+35014;8116;Dante Leon;5463;Magid Hage;SUBMISSION;Armbar;-1;-1;N/A;77KG;M;R1;2022
+35020;8116;Dante Leon;-1;M. Szczecinski;DECISION;N/A;-1;-1;N/A;77KG;M;4F;2022
+7942;1386;Davi Ramos;4302;Young-Ahm;SUBMISSION;RNC;-1;-1;N/A;77KG;M;R1;2015
+785;4965;David Terrell;-1;Akira Shoji;POINTS;N/A;-1;-1;N/A;88KG;M;R1;2003
+1187;112;Demian Maia;-1;Marko Helen;POINTS;N/A;3;0;N/A;88KG;M;R1;2005
+1190;112;Demian Maia;-1;David Avellan;POINTS;N/A;3;0;N/A;88KG;M;4F;2005
+1695;112;Demian Maia;-1;Yushin Okami;POINTS;N/A;-1;-1;N/A;88KG;M;R1;2007
+537;1369;Dean Lister;4302;M. Yano;SUBMISSION;RNC;-1;-1;N/A;99KG;M;R1;2001
+800;1369;Dean Lister;-1;Ilir Lafiti;SUBMISSION;Guillotine;-1;-1;N/A;99KG;M;R1;2003
+820;1369;Dean Lister;4977;Nate Marquardt;SUBMISSION;Kimura;-1;-1;N/A;ABS;M;R1;2003
+827;1369;Dean Lister;6438;A. Cacareco;SUBMISSION;Heel hook;-1;-1;N/A;ABS;M;F;2003
+2274;1369;Dean Lister;3592;Andreas Olsen;SUBMISSION;Triangle;-1;-1;N/A;99KG;M;R1;2009
+5022;1369;Dean Lister;6438;Jia Jang;SUBMISSION;Heel hook;-1;-1;N/A;99KG;M;R1;2013
+5032;1369;Dean Lister;6438;Ezra Lenon;SUBMISSION;Heel hook;-1;-1;N/A;99KG;M;4F;2013
+5054;1369;Dean Lister;6438;Hideki Sekine;SUBMISSION;Heel hook;-1;-1;N/A;ABS;M;R1;2013
+7894;1369;Dean Lister;-1;Lee Hyoung;SUBMISSION;Armbar;-1;-1;N/A;+99KG;M;R1;2015
+7985;1369;Dean Lister;6438;Ricardo Mesquita;SUBMISSION;Heel hook;-1;-1;N/A;ABS;M;R1;2015
+3323;595;Gabrielle Garcia;-1;Hannette Staack;POINTS;N/A;-1;-1;N/A;+60KG;F;F;2011
+4973;595;Gabrielle Garcia;4282;Yurika Nakakura;SUBMISSION;D'arce choke;-1;-1;N/A;+60KG;F;4F;2013
+4974;595;Gabrielle Garcia;-1;Tammy Griego;POINTS;N/A;-1;-1;N/A;+60KG;F;SF;2013
+4975;595;Gabrielle Garcia;-1;Fernanda Mazelli;SUBMISSION;N/A;-1;-1;N/A;+60KG;F;F;2013
+7980;595;Gabrielle Garcia;5463;Alison Tremblay;SUBMISSION;Armbar;-1;-1;N/A;+60KG;F;4F;2015
+7983;595;Gabrielle Garcia;-1;Amanda Santana;DECISION;N/A;-1;-1;N/A;+60KG;F;3RD;2015
+13947;595;Gabrielle Garcia;4980;Talita Treta;SUBMISSION;Americana;-1;-1;N/A;+60KG;F;F;2017
+21879;595;Gabrielle Garcia;-1;Stefanie Egger;POINTS;N/A;2;0;N/A;+60KG;F;4F;2019
+21880;595;Gabrielle Garcia;-1;Ana Carolina;DECISION;N/A;-1;-1;N/A;+60KG;F;SF;2019
+21881;595;Gabrielle Garcia;4977;Carina Santi;SUBMISSION;Kimura;-1;-1;N/A;+60KG;F;F;2019
+4993;5649;Gary Tonon;4302;Satori Kitaoka;SUBMISSION;RNC;-1;-1;N/A;77KG;M;R1;2013
+35038;11797;Giancarlo Bodoni;-1;Eoghan OFlanagan;SUBMISSION;Footlock;-1;-1;N/A;88KG;M;SF;2022
+21825;6550;Gordon Ryan;4302;Ben Hodgkinson;SUBMISSION;RNC;-1;-1;N/A;99KG;M;R1;2019
+35058;6550;Gordon Ryan;4302;Heikki Jussila;SUBMISSION;RNC;-1;-1;N/A;+99KG;M;R1;2022
+3221;1398;Justin Rader;-1;Timo-Juhani;POINTS;N/A;3;0;N/A;66KG;M;R1;2011
+5053;3009;Keenan Cornelius;6438;Erza Lennon;SUBMISSION;Heel hook;-1;-1;N/A;ABS;M;R1;2013
+7930;3009;Keenan Cornelius;-1;J. Urholin;POINTS;N/A;3;0;N/A;88KG;M;R1;2015
+7937;3009;Keenan Cornelius;-1;Rustam Chsiev;DECISION;N/A;-1;-1;N/A;88KG;M;SF;2015
+13876;3009;Keenan Cornelius;-1;Piotr Frechowicz;POINTS;N/A;6;0;N/A;88KG;M;E1;2017
+2245;788;Kron Gracie;4302;Erico Cocco;SUBMISSION;RNC;-1;-1;N/A;77KG;M;R1;2009
+3231;788;Kron Gracie;-1;Jason Manly;SUBMISSION;Guillotine;-1;-1;N/A;77KG;M;R1;2011
+4992;788;Kron Gracie;4302;Andy Wang;SUBMISSION;RNC;-1;-1;N/A;77KG;M;R1;2013
+4994;358;Lucas Lepri;-1;Tero Pyylampi;POINTS;N/A;3;0;N/A;77KG;M;R1;2013
+7944;358;Lucas Lepri;-1;Gamrot Mateusz;POINTS;N/A;3;0;N/A;77KG;M;R1;2015
+13892;358;Lucas Lepri;4302;Osman Kasimov;SUBMISSION;RNC;-1;-1;N/A;77KG;M;E1;2017
+7972;2444;Mackenzie Dern;4488;Kethe Engen;SUBMISSION;Toe hold;-1;-1;N/A;60KG;F;4F;2015
+7977;2444;Mackenzie Dern;-1;Bia Mesquita;DECISION;N/A;-1;-1;N/A;60KG;F;SF;2015
+35026;5423;Matheus Diniz;-1;Rodrigo Dib;POINTS;N/A;3;0;N/A;88KG;M;R1;2022
+5012;875;Lucas Leite;-1;Josh Hayden;POINTS;N/A;-1;-1;N/A;88KG;M;R1;2013
+416;687;Marcio Feitosa;-1;Caol Uno;POINTS;N/A;2;0;N/A;77KG;M;R1;2000
+508;687;Marcio Feitosa;5463;Peter Angerer;SUBMISSION;Armbar;-1;-1;N/A;77KG;M;R1;2001
+515;687;Marcio Feitosa;-1;F. Vasconcelos;POINTS;N/A;-1;-1;N/A;77KG;M;4F;2001
+1161;687;Marcio Feitosa;-1;Urija Faber;POINTS;N/A;-1;-1;N/A;66KG;M;R1;2005
+5041;984;Marcus Almeida;4488;Jimmy Freidrich;SUBMISSION;Toe hold;-1;-1;N/A;+99KG;M;R1;2013
+5047;984;Marcus Almeida;4977;Hideki Sekine;SUBMISSION;Kimura;-1;-1;N/A;+99KG;M;4F;2013
+13848;984;Marcus Almeida;4302;A. Zhanpeisov;SUBMISSION;RNC;-1;-1;N/A;+99KG;M;E1;2017
+13927;984;Marcus Almeida;-1;M. Perez;POINTS;N/A;0;0;PEN;ABS;M;E1;2017
+4976;179;Rafael Mendes;4977;Y. Takahito;SUBMISSION;Kimura;-1;-1;N/A;66KG;M;R1;2013
+4985;179;Rafael Mendes;5463;Tetsu Suzuki;SUBMISSION;Armbar;-1;-1;N/A;66KG;M;4F;2013
+2228;725;Ryan Hall;-1;Jeff Curran;POINTS;N/A;-1;-1;N/A;66KG;M;R1;2009
+3223;725;Ryan Hall;-1;Tetsu Hadario;POINTS;N/A;5;4;N/A;66KG;M;R1;2011
+13849;4310;Tim Spriggs;-1;J. Pietkainen;POINTS;N/A;6;0;N/A;+99KG;M;E1;2017
+7927;1740;Yuri Simoes;-1;Ricardo Mesquita;POINTS;N/A;3;0;N/A;88KG;M;R1;2015
+7934;1740;Yuri Simoes;4302;Zbigniew Tyszka;SUBMISSION;RNC;-1;-1;N/A;88KG;M;4F;2015
+7988;1740;Yuri Simoes;-1;Hideki Shrek;DECISION;N/A;-1;-1;N/A;ABS;M;R1;2015
+13870;1740;Yuri Simoes;-1;M. Perez;DECISION;N/A;-1;-1;N/A;99KG;M;4F;2017
+21813;1740;Yuri Simoes;5463;Elliot Marshal;SUBMISSION;Armbar;-1;-1;N/A;+99KG;M;R1;2019
+35048;1740;Yuri Simoes;-1;Luke Griffith;DECISION;N/A;-1;-1;N/A;99KG;M;R1;2022
+13911;4996;Geovanny Martinez;-1;Kamil Wilk;POINTS;N/A;3;2;N/A;66KG;M;E1;2017
+13851;5509;Victor Honorio;-1;Jesseray Childrey;POINTS;N/A;5;0;N/A;+99KG;M;E1;2017
+13926;5509;Victor Honorio;-1;A. Zhanpeisov;SUBMISSION;Dogbar;-1;-1;N/A;ABS;M;E1;2017
+5038;5861;Jared Dopp;-1;Amir Allam;POINTS;N/A;-1;-1;N/A;+99KG;M;R1;2013
+13847;5861;Jared Dopp;-1;Abdulaev Ruslan;SUBMISSION;Triangle;-1;-1;N/A;+99KG;M;E1;2017
+13863;5842;Mahamed Aly;-1;Kamil Uminski;POINTS;N/A;3;0;N/A;99KG;M;E1;2017
+13929;5842;Mahamed Aly;-1;Eliott Kelly;POINTS;N/A;2;0;N/A;ABS;M;E1;2017
+21902;5842;Mahamed Aly;6438;Jon Hansen;SUBMISSION;Outside heel hook;-1;-1;N/A;ABS;M;R1;2019
+178;6167;Ricco Rodriguez;-1;Yousef Elzien;SUBMISSION;Headlock;-1;-1;N/A;+99KG;M;R1;1998
+182;6167;Ricco Rodriguez;-1;Ricardo Moraes;POINTS;N/A;5;0;N/A;+99KG;M;4F;1998
+183;6167;Ricco Rodriguez;5463;Firas Nakdali;SUBMISSION;Armbar;-1;-1;N/A;+99KG;M;SF;1998
+185;6167;Ricco Rodriguez;-1;Sean Alvarez;POINTS;N/A;3;0;N/A;+99KG;M;F;1998
+345;6167;Ricco Rodriguez;5463;Rocky Batastini;SUBMISSION;Armbar;-1;-1;N/A;+99KG;M;R1;1999
+362;6167;Ricco Rodriguez;-1;Kim Mason;POINTS;N/A;-1;-1;N/A;ABS;M;R1;1999
+451;6167;Ricco Rodriguez;-1;Carlos Barreto;DECISION;N/A;-1;-1;N/A;+99KG;M;R1;2000
+457;6167;Ricco Rodriguez;-1;Ricardo Moraes;DECISION;N/A;-1;-1;N/A;+99KG;M;SF;2000
+547;6167;Ricco Rodriguez;5463;Y. Yatso;SUBMISSION;Armbar;-1;-1;N/A;+99KG;M;R1;2001
+559;6167;Ricco Rodriguez;-1;A. Cacareco;POINTS;N/A;2;0;N/A;ABS;M;R1;2001
+1209;6167;Ricco Rodriguez;-1;Halm Gocalli;SUBMISSION;Headlock;-1;-1;N/A;+99KG;M;R1;2005
+13928;5258;Dillon Danis;-1;Y. Ozawa;SUBMISSION;Guillotine;-1;-1;N/A;ABS;M;E1;2017
+4984;1398;Justin Rader;-1;Nicolas Renier;POINTS;N/A;-1;-1;N/A;66KG;M;4F;2013
+309;727;Alexandre de Freitas;374;Vinicius Magalhaes;POINTS;N/A;2;0;N/A;66KG;M;4F;1999
+2276;84;Alexandre Ribeiro;8241;Radoslaw Turek;SUBMISSION;RNC;-1;-1;N/A;99KG;M;4F;2009
+2282;84;Alexandre Ribeiro;1329;Gerardi Rinaldi;POINTS;N/A;3;0;N/A;99KG;M;F;2009
+3293;84;Alexandre Ribeiro;911;Antonio Peinado;POINTS;N/A;4;0;N/A;99KG;M;3PLC;2011
+2305;84;Alexandre Ribeiro;1388;Gunnar Nelson;SUBMISSION;Kneebar;-1;-1;N/A;ABS;M;SF;2009
+3313;84;Alexandre Ribeiro;1388;Gunnar Nelson;POINTS;N/A;2;0;N/A;ABS;M;4F;2011
+7899;3083;Abraham Marte Messina;-1;Juskowiak Mateusz;SUBMISSION;Triangle;-1;-1;N/A;+99KG;M;R1;2015
+140;727;Alexandre de Freitas;5463;Trevor Lally;SUBMISSION;Armbar;-1;-1;N/A;66KG;M;4F;1998
+143;727;Alexandre de Freitas;5463;Marc;SUBMISSION;Armbar;-1;-1;N/A;66KG;M;SF;1998
+145;727;Alexandre de Freitas;-1;Robin Gracie;SUBMISSION;Choke;-1;-1;N/A;66KG;M;F;1998
+306;727;Alexandre de Freitas;5463;T. Hirono;SUBMISSION;Armbar;-1;-1;N/A;66KG;M;R1;1999
+409;727;Alexandre de Freitas;-1;Sasha Plavski;POINTS;N/A;-1;-1;N/A;66KG;M;4F;2000
+411;727;Alexandre de Freitas;4302;Joe Gilbert;SUBMISSION;RNC;-1;-1;N/A;66KG;M;SF;2000
+496;727;Alexandre de Freitas;-1;Y. Kinishi;SUBMISSION;Guillotine;-1;-1;N/A;66KG;M;R1;2001
+761;727;Alexandre de Freitas;-1;K. Hirate;POINTS;N/A;-1;-1;N/A;66KG;M;R1;2003
+769;727;Alexandre de Freitas;-1;Joaquim Hansen;SUBMISSION;Guillotine;-1;-1;N/A;66KG;M;4F;2003
+799;84;Alexandre Ribeiro;-1;Erik Paulson;POINTS;N/A;-1;-1;N/A;99KG;M;R1;2003
+1199;84;Alexandre Ribeiro;5463;Michael Groth;SUBMISSION;Armbar;-1;-1;N/A;99KG;M;R1;2005
+1202;84;Alexandre Ribeiro;-1;Jamal Peterson;POINTS;N/A;2;0;N/A;99KG;M;4F;2005
+1204;84;Alexandre Ribeiro;-1;John Einimo;POINTS;N/A;6;0;N/A;99KG;M;3PLC;2005
+1224;84;Alexandre Ribeiro;-1;Antoine Joude;SUBMISSION;Kneebar;-1;-1;N/A;ABS;M;R1;2005
+1228;84;Alexandre Ribeiro;4302;Gabriel Napao;SUBMISSION;RNC;-1;-1;N/A;ABS;M;4F;2005
+1707;84;Alexandre Ribeiro;-1;Yukissyu Ozawa;SUBMISSION;Submission;-1;-1;N/A;99KG;M;R1;2007
+1712;84;Alexandre Ribeiro;4977;Tim Carpenter;SUBMISSION;Kimura;-1;-1;N/A;99KG;M;4F;2007
+2271;84;Alexandre Ribeiro;-1;Ilir Latifi;POINTS;N/A;-1;-1;N/A;99KG;M;R1;2009
+3272;84;Alexandre Ribeiro;4302;Lucio Lagarto;SUBMISSION;RNC;-1;-1;N/A;99KG;M;4F;2011
+3309;84;Alexandre Ribeiro;-1;Jeff Monson;DESQUALIFICATION;N/A;-1;-1;N/A;ABS;M;R1;2011
+7911;84;Alexandre Ribeiro;4455;Yukiyasu Ozawa;SUBMISSION;Omoplata;-1;-1;N/A;99KG;M;R1;2015
+13924;84;Alexandre Ribeiro;5463;T. Pyylampi;SUBMISSION;Armbar;-1;-1;N/A;ABS;M;E1;2017
+533;12;Antonio Schembri;6518;Egan Inoue;POINTS;N/A;-1;-1;N/A;88KG;M;3PLC;2001
+497;1023;Baret Yoshida;620;Gustavo Dantas;SUBMISSION;Kneebar;-1;-1;N/A;66KG;M;R1;2001
+3271;144;Andre Galvao;1388;Gunnar Nelson;POINTS;N/A;3;0;N/A;88KG;M;4F;2011
+307;1023;Baret Yoshida;613;Wellington Dias;SUBMISSION;Armbar;-1;-1;N/A;66KG;M;R1;1999
+318;486;Amaury Bitetti;-1;Akira Shouji;POINTS;N/A;5;0;N/A;88KG;M;R1;1999
+1683;144;Andre Galvao;-1;Chris Bright;SUBMISSION;Submission;-1;-1;N/A;77KG;M;R1;2007
+1689;144;Andre Galvao;6438;Mark Bocek;SUBMISSION;Heel hook;-1;-1;N/A;77KG;M;4F;2007
+2258;144;Andre Galvao;-1;Kassim Anan;POINTS;N/A;12;2;N/A;88KG;M;R1;2009
+2264;144;Andre Galvao;-1;Chris Weidman;POINTS;N/A;4;0;N/A;88KG;M;4F;2009
+2268;144;Andre Galvao;-1;David Avellan;POINTS;N/A;2;0;N/A;88KG;M;SF;2009
+2295;144;Andre Galvao;-1;Tom Bass;POINTS;N/A;-1;-1;N/A;ABS;M;R1;2009
+3242;144;Andre Galvao;-1;Don Ortega;POINTS;N/A;-1;-1;N/A;88KG;M;R1;2011
+3305;144;Andre Galvao;4302;Shinzo Ansai;SUBMISSION;RNC;-1;-1;N/A;ABS;M;R1;2011
+520;12;Antonio Schembri;4302;Akihiro Gono;SUBMISSION;RNC;-1;-1;N/A;88KG;M;R1;2001
+526;12;Antonio Schembri;4455;Alexander Savko;SUBMISSION;Omoplata;-1;-1;N/A;88KG;M;4F;2001
+7960;188;Augusto Mendes;-1;Nicholas Renier;POINTS;N/A;3;0;N/A;66KG;M;R1;2015
+501;1023;Baret Yoshida;3592;N. Uematsu;SUBMISSION;Triangle;-1;-1;N/A;66KG;M;4F;2001
+768;1023;Baret Yoshida;4302;Mike Mrkulic;SUBMISSION;RNC;-1;-1;N/A;66KG;M;4F;2003
+1673;1023;Baret Yoshida;4302;Eddie Sanchez;SUBMISSION;RNC;-1;-1;N/A;66KG;M;R1;2007
+1677;1023;Baret Yoshida;3592;Yoshitomi Mishima;SUBMISSION;Triangle;-1;-1;N/A;66KG;M;4F;2007
+1682;1023;Baret Yoshida;-1;Tetsu Suzuko;POINTS;N/A;3;0;N/A;66KG;M;3PLC;2007
+3225;1023;Baret Yoshida;4302;Nicolas Renier;SUBMISSION;RNC;-1;-1;N/A;66KG;M;R1;2011
+21873;9404;Ffion Davies;5761;Rikako Yuasa;POINTS;N/A;12;0;N/A;60KG;F;4F;2019
+21876;9404;Ffion Davies;1119;Beatriz Mesquita;SUBMISSION;Armbar;-1;-1;N/A;60KG;F;SF;2019
+1198;562;Eduardo Telles;-1;Antoine Joude;SUBMISSION;Kneebar;-1;-1;N/A;99KG;M;R1;2005
+13915;11223;Ethan Crelinsten;-1;Nicollas Renier;SUBMISSION;Triangle;-1;-1;N/A;66KG;M;E1;2017
+810;573;Fabricio Werdum;-1;T. Kosaka;POINTS;N/A;-1;-1;N/A;+99KG;M;R1;2003
+812;573;Fabricio Werdum;-1;Jehad Hamdan;POINTS;N/A;-1;-1;N/A;+99KG;M;4F;2003
+814;573;Fabricio Werdum;5463;Mike Van;SUBMISSION;Armbar;-1;-1;N/A;+99KG;M;SF;2003
+821;573;Fabricio Werdum;5463;Matt Lindland;SUBMISSION;Armbar;-1;-1;N/A;ABS;M;R1;2003
+1211;573;Fabricio Werdum;-1;Denis Roberts;POINTS;N/A;7;0;N/A;+99KG;M;R1;2005
+1218;573;Fabricio Werdum;1736;Daniel Simoes;POINTS;N/A;5;0;N/A;+99KG;M;3PLC;2005
+1220;573;Fabricio Werdum;6438;Reese Andy;SUBMISSION;Heel hook;-1;-1;N/A;ABS;M;R1;2005
+1661;573;Fabricio Werdum;4980;Mario Rinaldi;SUBMISSION;Americana;-1;-1;N/A;ABS;M;R1;2007
+1717;573;Fabricio Werdum;5463;Elvis Sinosic;SUBMISSION;Armbar;-1;-1;N/A;+99KG;M;R1;2007
+1720;573;Fabricio Werdum;-1;Darren Andy;POINTS;N/A;-1;-1;N/A;+99KG;M;SF;2007
+2284;573;Fabricio Werdum;4977;Rogent Lorent;SUBMISSION;Kimura;-1;-1;N/A;+99KG;M;R1;2009
+2288;573;Fabricio Werdum;-1;Tomasz Janiszewski;POINTS;N/A;-1;-1;N/A;+99KG;M;4F;2009
+3276;573;Fabricio Werdum;5463;Jeff Monson;SUBMISSION;Armbar;-1;-1;N/A;+99KG;M;4F;2011
+7917;2416;Felipe Pena;-1;Jimmy Friedrich;SUBMISSION;Triangle;-1;-1;N/A;99KG;M;4F;2015
+13860;2416;Felipe Pena;5463;Y. Ozawa;SUBMISSION;Armbar;-1;-1;N/A;99KG;M;E1;2017
+35065;2416;Felipe Pena;-1;Josh Saunders;POINTS;N/A;8;0;N/A;+99KG;M;R1;2022
+3263;610;Jeff Glover;1774;Mark Ramos;SUBMISSION;D'arce choke;-1;-1;N/A;66KG;M;4F;2011
+4978;2997;Joao Miyao;1774;Mark Ramos;SUBMISSION;Calf slicer;-1;-1;N/A;66KG;M;R1;2013
+21831;3200;Jackson Sousa;-1;Paulo Pinto;DECISION;N/A;-1;-1;N/A;99KG;M;R1;2019
+1172;1031;Jake Shields;-1;Diego Sanchez;POINTS;N/A;6;0;N/A;77KG;M;R1;2005
+1177;1031;Jake Shields;-1;Cameron Earle;POINTS;N/A;3;0;N/A;77KG;M;4F;2005
+315;88;Jean Jacques Machado;4302;Micah Pittman;SUBMISSION;RNC;-1;-1;N/A;77KG;M;4F;1999
+423;88;Jean Jacques Machado;4658;Mikey Burnet;SUBMISSION;Ezekiel;-1;-1;N/A;77KG;M;4F;2000
+510;88;Jean Jacques Machado;4302;Serguei Onishuk;SUBMISSION;RNC;-1;-1;N/A;77KG;M;R1;2001
+558;88;Jean Jacques Machado;5463;Y. Kohsaka;SUBMISSION;Armbar;-1;-1;N/A;ABS;M;R1;2001
+1671;610;Jeff Glover;-1;Jamie Ballard;SUBMISSION;Triangle;-1;-1;N/A;66KG;M;R1;2007
+2231;610;Jeff Glover;-1;Timo-Juhani;POINTS;N/A;-1;-1;N/A;66KG;M;R1;2009
+7961;610;Jeff Glover;6438;Daniel Hortegas;SUBMISSION;Heel hook;-1;-1;N/A;66KG;M;R1;2015
+3247;644;Joao Assis;6438;James Poupolo;SUBMISSION;Heel hook;-1;-1;N/A;99KG;M;R1;2011
+5026;644;Joao Assis;-1;Liu Wen;POINTS;N/A;9;0;N/A;99KG;M;R1;2013
+5030;644;Joao Assis;-1;Tomasz Narkun;POINTS;N/A;3;0;N/A;99KG;M;4F;2013
+7909;644;Joao Assis;-1;Tomasz Narkun;POINTS;N/A;3;0;N/A;99KG;M;R1;2015
+13865;644;Joao Assis;6438;Jeff Monson;SUBMISSION;Inside heel hook;-1;-1;N/A;99KG;M;E1;2017
+5039;2403;Joao Gabriel Rocha;4302;Michael Wilson;SUBMISSION;RNC;-1;-1;N/A;+99KG;M;R1;2013
+5055;2403;Joao Gabriel Rocha;-1;David Avellan;POINTS;N/A;-1;-1;N/A;ABS;M;R1;2013
+7900;2403;Joao Gabriel Rocha;-1;Jason Lees;POINTS;N/A;17;0;N/A;+99KG;M;R1;2015
+4995;967;Jonathan Torres;9587;Eduardo Rios;SUBMISSION;RNC;-1;-1;N/A;77KG;M;R1;2013
+5066;232;Jose Mario Sperry;322;Fabio Gurgel;DECISION;N/A;-1;-1;N/A;ABS;M;SPF;2013
+431;720;Jorge Patino;-1;Karl Webber;POINTS;N/A;15;0;N/A;88KG;M;R1;2000
+435;720;Jorge Patino;-1;Egan Inoe;POINTS;N/A;6;0;N/A;88KG;M;4F;2000
+1186;720;Jorge Patino;-1;Take Hanai;POINTS;N/A;14;0;N/A;88KG;M;R1;2005
+21839;10588;Jon Blank;6438;Rustam Chsiev;SUBMISSION;Inside heel hook;-1;-1;N/A;88KG;M;R1;2019
+166;232;Jose Mario Sperry;-1;Muhammad Saleh;POINTS;N/A;-1;-1;N/A;99KG;M;R1;1998
+168;232;Jose Mario Sperry;5463;Larry Parker;SUBMISSION;Armbar;-1;-1;N/A;99KG;M;4F;1998
+169;232;Jose Mario Sperry;-1;Renato Verissimo;SUBMISSION;Choke;-1;-1;N/A;99KG;M;SF;1998
+186;232;Jose Mario Sperry;-1;Oleg Taktarov;POINTS;N/A;4;0;N/A;ABS;M;4F;1998
+187;232;Jose Mario Sperry;-1;Simon Siasi;SUBMISSION;Footlock;-1;-1;N/A;ABS;M;SF;1998
+372;232;Jose Mario Sperry;-1;Enson Inoe;POINTS;N/A;-1;-1;N/A;ABS;M;SPF;1999
+35010;967;Jonathan Torres;-1;Keita Iwamoto;DECISION;N/A;-1;-1;N/A;77KG;M;R1;2022
+35042;8974;Kaynan Duarte;-1;Owen Livesey;POINTS;N/A;8;0;N/A;99KG;M;R1;2022
+35083;10885;Kendall Reusing;13016;Giovanna Jara;SUBMISSION;Guillotine;-1;-1;N/A;+60KG;F;4F;2022
+5035;1272;Leonardo Nogueira;2956;Cristiano Lazzarini;POINTS;N/A;-1;-1;N/A;99KG;M;3PLC;2013
+21868;9031;Kennedy Maciel;3592;R. Alvarenga;SUBMISSION;Triangle;-1;-1;N/A;66KG;M;R1;2019
+5028;1272;Leonardo Nogueira;-1;Alian Drueco;SUBMISSION;Guillotine;-1;-1;N/A;99KG;M;R1;2013
+5031;1272;Leonardo Nogueira;-1;Mikael Knutsson;POINTS;N/A;-1;-1;N/A;99KG;M;4F;2013
+1178;292;Leonardo Santos;5463;George St;SUBMISSION;Armbar;-1;-1;N/A;77KG;M;4F;2005
+2248;292;Leonardo Santos;-1;Yoshiyuki Yoshida;POINTS;N/A;-1;-1;N/A;77KG;M;R1;2009
+511;419;Leonardo Vieira;-1;Morris Clifoni;SUBMISSION;Katagatame;-1;-1;N/A;77KG;M;R1;2001
+764;419;Leonardo Vieira;-1;Allan Teo;SUBMISSION;Submission;-1;-1;N/A;66KG;M;R1;2003
+1163;419;Leonardo Vieira;-1;T. Suzuki;POINTS;N/A;-1;-1;N/A;66KG;M;R1;2005
+1165;419;Leonardo Vieira;-1;Joey Gilbert;SUBMISSION;Guillotine;-1;-1;N/A;66KG;M;4F;2005
+1167;419;Leonardo Vieira;-1;Rob Di;SUBMISSION;North south choke;-1;-1;N/A;66KG;M;SF;2005
+1679;419;Leonardo Vieira;-1;T. Suzuki;POINTS;N/A;8;0;N/A;66KG;M;SF;2007
+2235;419;Leonardo Vieira;-1;D. Marinakis;POINTS;N/A;-1;-1;N/A;66KG;M;R1;2009
+4996;419;Leonardo Vieira;-1;Sotaro Yamada;POINTS;N/A;6;0;N/A;77KG;M;R1;2013
+1179;16;Marcelo Garcia;1319;Shinya Aoki;SUBMISSION;RNC;-1;-1;N/A;77KG;M;4F;2005
+1662;16;Marcelo Garcia;70;Rolles Gracie;SUBMISSION;Armbar;-1;-1;N/A;ABS;M;4F;2007
+1690;16;Marcelo Garcia;1583;Mike Fowler;SUBMISSION;Guillotine;-1;-1;N/A;77KG;M;SF;2007
+2244;16;Marcelo Garcia;1065;Rodney Ellis;SUBMISSION;Guillotine;-1;-1;N/A;77KG;M;R1;2009
+2298;16;Marcelo Garcia;637;Bruno Bastos;SUBMISSION;RNC;-1;-1;N/A;ABS;M;R1;2009
+1719;9;Marcio Cruz;5702;Marcos Oliveira;POINTS;N/A;-1;-1;N/A;+99KG;M;4F;2007
+2272;9;Marcio Cruz;1104;Anthony Perosh;POINTS;N/A;-1;-1;N/A;99KG;M;R1;2009
+776;16;Marcelo Garcia;4302;Kiuma Kunioku;SUBMISSION;RNC;-1;-1;N/A;77KG;M;R1;2003
+817;16;Marcelo Garcia;4302;Mike Van;SUBMISSION;RNC;-1;-1;N/A;ABS;M;R1;2003
+1230;16;Marcelo Garcia;5463;Diego Sanchez;SUBMISSION;Armbar;-1;-1;N/A;ABS;M;4F;2005
+1654;16;Marcelo Garcia;-1;Mario Miranda;SUBMISSION;North south choke;-1;-1;N/A;ABS;M;R1;2007
+1666;16;Marcelo Garcia;4302;A. Cacareco;SUBMISSION;RNC;-1;-1;N/A;ABS;M;SF;2007
+1686;16;Marcelo Garcia;-1;George Sotiropoulos;SUBMISSION;Guillotine;-1;-1;N/A;77KG;M;R1;2007
+1688;16;Marcelo Garcia;4302;Kurt Pellegrino;SUBMISSION;RNC;-1;-1;N/A;77KG;M;4F;2007
+2255;16;Marcelo Garcia;-1;Keita Nakamura;SUBMISSION;Guillotine;-1;-1;N/A;77KG;M;SF;2009
+4980;4163;Marcio Andre Barbosa Junior;-1;Robert Sabaruddin;POINTS;N/A;6;0;N/A;66KG;M;R1;2013
+548;9;Marcio Cruz;-1;Van Arsdale;SUBMISSION;Kneebar;-1;-1;N/A;+99KG;M;R1;2001
+809;9;Marcio Cruz;-1;Mike Whitehead;POINTS;N/A;-1;-1;N/A;+99KG;M;R1;2003
+811;9;Marcio Cruz;-1;Jeff Monson;POINTS;N/A;-1;-1;N/A;+99KG;M;4F;2003
+813;9;Marcio Cruz;-1;Alex Negao;SUBMISSION;Guillotine;-1;-1;N/A;+99KG;M;SF;2003
+816;9;Marcio Cruz;-1;Ilir Lafiti;POINTS;N/A;-1;-1;N/A;ABS;M;R1;2003
+1207;9;Marcio Cruz;4302;Miodrag Petkovic;SUBMISSION;RNC;-1;-1;N/A;+99KG;M;R1;2005
+1213;9;Marcio Cruz;1736;Daniel Simoes;POINTS;N/A;2;0;N/A;+99KG;M;4F;2005
+1718;9;Marcio Cruz;5463;J. Pietlainen;SUBMISSION;Armbar;-1;-1;N/A;+99KG;M;R1;2007
+1722;9;Marcio Cruz;-1;Darren Andy;POINTS;N/A;-1;-1;N/A;+99KG;M;3PLC;2007
+507;1858;Matt Serra;4302;Takanori Gomi;SUBMISSION;RNC;-1;-1;N/A;77KG;M;R1;2001
+13854;2452;Orlando Sanchez;5324;Thomas DeBlass;DECISION;N/A;-1;-1;N/A;+99KG;M;4F;2017
+3230;484;Murilo Santana;5463;Jorge Britto;SUBMISSION;Armbar;-1;-1;N/A;77KG;M;R1;2011
+3311;484;Murilo Santana;5463;Marko Helen;SUBMISSION;Armbar;-1;-1;N/A;ABS;M;R1;2011
+21838;484;Murilo Santana;-1;Keller Sodhi;POINTS;N/A;0;0;PEN;88KG;M;R1;2019
+4997;2107;Otavio Sousa;4302;Youngnam Noh;SUBMISSION;RNC;-1;-1;N/A;77KG;M;R1;2013
+4999;2107;Otavio Sousa;4455;Ben Henderson;SUBMISSION;Omoplata;-1;-1;N/A;77KG;M;4F;2013
+5044;2452;Orlando Sanchez;4302;Kitner Mendoga;SUBMISSION;RNC;-1;-1;N/A;+99KG;M;R1;2013
+13845;2452;Orlando Sanchez;-1;H. Sekine;POINTS;N/A;2;0;N/A;+99KG;M;E1;2017
+21817;2452;Orlando Sanchez;-1;Mateusz Juskowiak;POINTS;N/A;2;0;N/A;+99KG;M;R1;2019
+13914;8069;Pablo Mantovani;-1;E. Elgland;POINTS;N/A;2;0;N/A;66KG;M;E1;2017
+1684;919;Pablo Popovitch;-1;Eric Dahlberg;POINTS;N/A;-1;-1;N/A;77KG;M;R1;2007
+2247;919;Pablo Popovitch;4302;Don Ortega;SUBMISSION;RNC;-1;-1;N/A;77KG;M;R1;2009
+2253;919;Pablo Popovitch;4488;Ben Askren;SUBMISSION;Toe hold;-1;-1;N/A;77KG;M;4F;2009
+5007;919;Pablo Popovitch;-1;Doorwang Jeon;POINTS;N/A;3;0;N/A;88KG;M;R1;2013
+5015;919;Pablo Popovitch;-1;David Avellan;POINTS;N/A;-1;-1;N/A;88KG;M;4F;2013
+13910;2999;Paulo Miyao;-1;Janus Andrejczuk;POINTS;N/A;10;0;N/A;66KG;M;E1;2017
+21861;2999;Paulo Miyao;-1;Kenta Iwamoto;POINTS;N/A;5;0;N/A;66KG;M;R1;2019
+2266;576;Rafael Lovato Jr;637;Bruno Bastos;SUBMISSION;D'arce choke;-1;-1;N/A;88KG;M;4F;2009
+1164;177;Rany Yahya;2175;Wagnney Fabiano;POINTS;N/A;2;0;N/A;66KG;M;4F;2005
+329;591;Ricardo Liborio;6518;Egan Inoue;POINTS;N/A;3;0;N/A;88KG;M;3PLC;1999
+35032;11991;Pedro Marinho;-1;Jacob Rodriguez;POINTS;N/A;3;2;N/A;88KG;M;R1;2022
+1696;576;Rafael Lovato Jr;5463;Marko Helen;SUBMISSION;Armbar;-1;-1;N/A;88KG;M;R1;2007
+2262;576;Rafael Lovato Jr;-1;Tom Lawlor;POINTS;N/A;-1;-1;N/A;88KG;M;R1;2009
+3238;576;Rafael Lovato Jr;4302;Jeon Doo;SUBMISSION;RNC;-1;-1;N/A;88KG;M;R1;2011
+3269;576;Rafael Lovato Jr;3592;Kyle Griffin;SUBMISSION;Triangle;-1;-1;N/A;88KG;M;4F;2011
+5009;576;Rafael Lovato Jr;-1;Shinsho Anzai;SUBMISSION;Triangle;-1;-1;N/A;88KG;M;R1;2013
+5016;576;Rafael Lovato Jr;3592;Rustam Chsiev;SUBMISSION;Triangle;-1;-1;N/A;88KG;M;4F;2013
+7928;576;Rafael Lovato Jr;-1;Hidemi Mihara;POINTS;N/A;7;0;N/A;88KG;M;R1;2015
+7990;576;Rafael Lovato Jr;-1;Abdulkadirov Magomed;POINTS;N/A;5;0;N/A;ABS;M;R1;2015
+13862;576;Rafael Lovato Jr;-1;Eliott Kelly;POINTS;N/A;-1;-1;N/A;99KG;M;E1;2017
+35047;576;Rafael Lovato Jr;4302;Perttu Terpponnen;SUBMISSION;RNC;-1;-1;N/A;99KG;M;R1;2022
+763;177;Rany Yahya;-1;Teemu Launis;SUBMISSION;Submission;-1;-1;N/A;66KG;M;R1;2003
+1162;177;Rany Yahya;4282;Mario Delgado;SUBMISSION;D'arce choke;-1;-1;N/A;66KG;M;R1;2005
+1674;177;Rany Yahya;-1;Darrel Moodley;SUBMISSION;Submission;-1;-1;N/A;66KG;M;R1;2007
+2230;177;Rany Yahya;-1;Kouhei Yasumi;SUBMISSION;Choke;-1;-1;N/A;66KG;M;R1;2009
+153;52;Renzo Gracie;-1;Frank Trigg;DECISION;N/A;-1;-1;N/A;77KG;M;R1;1998
+157;52;Renzo Gracie;-1;Rodrigo Modrias;POINTS;N/A;3;0;N/A;77KG;M;4F;1998
+159;52;Renzo Gracie;-1;Fabiano Iha;POINTS;N/A;3;0;N/A;77KG;M;SF;1998
+421;52;Renzo Gracie;-1;Israel Albuquerque;POINTS;N/A;3;0;N/A;77KG;M;4F;2000
+522;52;Renzo Gracie;-1;Chris Brown;POINTS;N/A;-1;-1;N/A;88KG;M;R1;2001
+778;52;Renzo Gracie;-1;G. Sotiropoulos;POINTS;N/A;-1;-1;N/A;77KG;M;R1;2003
+461;278;Ricardo Almeida;-1;Josh Barnet;SUBMISSION;Guillotine;-1;-1;N/A;ABS;M;R1;2000
+538;278;Ricardo Almeida;4302;Y. Setsenko;SUBMISSION;RNC;-1;-1;N/A;99KG;M;R1;2001
+545;278;Ricardo Almeida;-1;A. Cacareco;POINTS;N/A;2;0;N/A;99KG;M;SF;2001
+562;278;Ricardo Almeida;-1;Marshurenko;POINTS;N/A;-1;-1;N/A;ABS;M;R1;2001
+567;278;Ricardo Almeida;5463;M. Van;SUBMISSION;Armbar;-1;-1;N/A;ABS;M;4F;2001
+791;278;Ricardo Almeida;-1;Andy Reese;POINTS;N/A;-1;-1;N/A;88KG;M;4F;2003
+446;93;Ricardo Arona;-1;Kareem Barkalev;POINTS;N/A;-1;-1;N/A;99KG;M;4F;2000
+540;93;Ricardo Arona;-1;R. Babalu;POINTS;N/A;2;0;N/A;99KG;M;4F;2001
+557;93;Ricardo Arona;4759;Roger Neff;SUBMISSION;Footlock;-1;-1;N/A;ABS;M;R1;2001
+568;93;Ricardo Arona;-1;Vitor Belfort;POINTS;N/A;3;0;N/A;ABS;M;SF;2001
+320;591;Ricardo Liborio;-1;Akihiro Gono;POINTS;N/A;5;0;N/A;88KG;M;R1;1999
+326;591;Ricardo Liborio;-1;Luis Orlando;POINTS;N/A;16;0;N/A;88KG;M;4F;1999
+429;591;Ricardo Liborio;4302;Toshiyuki Oyama;SUBMISSION;RNC;-1;-1;N/A;88KG;M;R1;2000
+4977;338;Ricardo Vieira;-1;Yuta Sasaki;SUBMISSION;Guillotine;-1;-1;N/A;66KG;M;R1;2013
+2287;224;Roberto Abreu;5324;Thomas DeBlass;POINTS;N/A;-1;-1;N/A;+99KG;M;R1;2009
+369;1204;Roberto Traven;1696;Garth Taylor;POINTS;N/A;5;0;N/A;ABS;M;SF;1999
+442;559;Rodrigo Medeiros;1994;Travis Lutter;POINTS;N/A;2;0;N/A;99KG;M;R1;2000
+330;1817;Rigan Machado;-1;Sanae Kikuta;POINTS;N/A;-1;-1;N/A;99KG;M;R1;1999
+335;1817;Rigan Machado;-1;Jerry Bolander;POINTS;N/A;2;0;N/A;99KG;M;4F;1999
+455;1817;Rigan Machado;-1;Pete Williams;POINTS;N/A;7;0;N/A;+99KG;M;4F;2000
+802;1817;Rigan Machado;-1;Yuki Ozawa;POINTS;N/A;-1;-1;N/A;99KG;M;R1;2003
+2290;224;Roberto Abreu;-1;Asa Fuller;POINTS;N/A;-1;-1;N/A;+99KG;M;4F;2009
+3254;224;Roberto Abreu;5463;Sekine Hideki;SUBMISSION;Armbar;-1;-1;N/A;+99KG;M;R1;2011
+5043;224;Roberto Abreu;5463;Mike Martelle;SUBMISSION;Armbar;-1;-1;N/A;+99KG;M;R1;2013
+5057;224;Roberto Abreu;-1;Kamil Huminski;POINTS;N/A;-1;-1;N/A;ABS;M;R1;2013
+13850;224;Roberto Abreu;-1;Khazmat Stambulov;POINTS;N/A;0;0;PEN;+99KG;M;E1;2017
+21824;224;Roberto Abreu;-1;John Hansen;POINTS;N/A;6;0;N/A;+99KG;M;4F;2019
+331;1204;Roberto Traven;-1;Jurie Rachel;SUBMISSION;Submission;-1;-1;N/A;99KG;M;R1;1999
+365;1204;Roberto Traven;-1;Luis Roberto;POINTS;N/A;6;0;N/A;ABS;M;4F;1999
+370;1204;Roberto Traven;-1;Hayato Sakurai;POINTS;N/A;2;0;N/A;ABS;M;F;1999
+495;195;Robson Moura;4302;Hiroyuko Abe;SUBMISSION;RNC;-1;-1;N/A;66KG;M;R1;2001
+498;195;Robson Moura;-1;Joe Guilbert;DECISION;N/A;-1;-1;N/A;66KG;M;4F;2001
+3222;195;Robson Moura;-1;Greger Forsel;POINTS;N/A;3;0;N/A;66KG;M;R1;2011
+3248;247;Rodolfo Vieira;5463;Joseph Lee;SUBMISSION;Armbar;-1;-1;N/A;99KG;M;R1;2011
+7989;247;Rodolfo Vieira;-1;Ben Henderson;SUBMISSION;Kimura;-1;-1;N/A;ABS;M;R1;2015
+162;10579;Rodrigo Gracie;-1;Adrian Serrano;SUBMISSION;Choke;-1;-1;N/A;88KG;M;R1;1998
+163;10579;Rodrigo Gracie;-1;Carlos Newton;POINTS;N/A;6;0;N/A;88KG;M;4F;1998
+164;10579;Rodrigo Gracie;5463;Ahmad Faraj;SUBMISSION;Armbar;-1;-1;N/A;88KG;M;SF;1998
+512;10579;Rodrigo Gracie;-1;Gavin Kulper;SUBMISSION;Submission;-1;-1;N/A;77KG;M;4F;2001
+789;559;Rodrigo Medeiros;-1;Nathan Marquardt;POINTS;N/A;2;0;N/A;88KG;M;R1;2003
+1206;505;Roger Gracie;4302;Justin Garcia;SUBMISSION;RNC;-1;-1;N/A;99KG;M;R1;2005
+1724;505;Roger Gracie;-1;Jon Einemo;POINTS;N/A;5;0;N/A;ABS;M;SPF;2007
+1698;320;Romulo Barral;-1;Travers Grubb;POINTS;N/A;-1;-1;N/A;88KG;M;R1;2007
+2285;320;Romulo Barral;-1;Denis Roberts;SUBMISSION;Kneebar;-1;-1;N/A;+99KG;M;R1;2009
+5013;320;Romulo Barral;-1;Kim Dong;SUBMISSION;Kneebar;-1;-1;N/A;88KG;M;R1;2013
+7924;320;Romulo Barral;4977;C. Jones;SUBMISSION;Kimura;-1;-1;N/A;88KG;M;R1;2015
+7932;320;Romulo Barral;4977;Nieman Gracie;SUBMISSION;Kimura;-1;-1;N/A;88KG;M;4F;2015
+1188;117;Ronaldo Souza;4977;David Bielkheden;SUBMISSION;Kimura;-1;-1;N/A;88KG;M;R1;2005
+1193;117;Ronaldo Souza;5463;Dennis Hallman;SUBMISSION;Armbar;-1;-1;N/A;88KG;M;SF;2005
+1227;117;Ronaldo Souza;-1;David Avellan;POINTS;N/A;6;0;N/A;ABS;M;R1;2005
+1231;117;Ronaldo Souza;-1;A. Cacareco;SUBMISSION;Kneebar;-1;-1;N/A;ABS;M;4F;2005
+308;515;Royler Gracie;952;Joao Roque;POINTS;N/A;-1;-1;N/A;66KG;M;4F;1999
+339;481;Saulo Ribeiro;627;Murilo Bustamante;POINTS;N/A;5;0;N/A;99KG;M;SF;1999
+3241;138;Sergio Moraes;1768;James Harbison;POINTS;N/A;-1;-1;N/A;88KG;M;R1;2011
+521;481;Saulo Ribeiro;1994;Travis Lutter;POINTS;N/A;2;0;N/A;88KG;M;R1;2001
+3236;431;Rousimar Palhares;6438;Dan Schon;SUBMISSION;Heel hook;-1;-1;N/A;88KG;M;R1;2011
+303;515;Royler Gracie;3592;Juan Valles;SUBMISSION;Triangle;-1;-1;N/A;66KG;M;R1;1999
+312;515;Royler Gracie;-1;Melchor M.;POINTS;N/A;12;0;N/A;66KG;M;SF;1999
+412;515;Royler Gracie;-1;A. Hamlet;POINTS;N/A;10;0;N/A;66KG;M;SF;2000
+493;515;Royler Gracie;4302;Martin Brown;SUBMISSION;RNC;-1;-1;N/A;66KG;M;R1;2001
+500;515;Royler Gracie;4759;Mike Cardosa;SUBMISSION;Footlock;-1;-1;N/A;66KG;M;4F;2001
+760;515;Royler Gracie;4302;Charles Pearson;SUBMISSION;RNC;-1;-1;N/A;66KG;M;R1;2003
+2232;147;Rubens Charles;5463;Hiroshi Nakamura;SUBMISSION;Armbar;-1;-1;N/A;66KG;M;R1;2009
+2237;147;Rubens Charles;4302;Joel Tudor;SUBMISSION;RNC;-1;-1;N/A;66KG;M;4F;2009
+3224;147;Rubens Charles;3592;David Marinakis;SUBMISSION;Triangle;-1;-1;N/A;66KG;M;R1;2011
+7957;147;Rubens Charles;4302;Tezekbaev Rasul;SUBMISSION;RNC;-1;-1;N/A;66KG;M;R1;2015
+13908;147;Rubens Charles;-1;U. Zhakshylyk;POINTS;N/A;3;0;N/A;66KG;M;E1;2017
+13916;147;Rubens Charles;5463;Kuba Witkowski;SUBMISSION;Armbar;-1;-1;N/A;66KG;M;4F;2017
+338;481;Saulo Ribeiro;-1;Vernon White;POINTS;N/A;16;0;N/A;99KG;M;4F;1999
+433;481;Saulo Ribeiro;-1;Jerry Bolander;POINTS;N/A;2;0;N/A;88KG;M;R1;2000
+437;481;Saulo Ribeiro;4302;Dave Menne;SUBMISSION;RNC;-1;-1;N/A;88KG;M;4F;2000
+527;481;Saulo Ribeiro;-1;R. Anderson;POINTS;N/A;-1;-1;N/A;88KG;M;4F;2001
+561;481;Saulo Ribeiro;-1;T. Yano;POINTS;N/A;11;2;N/A;ABS;M;R1;2001
+790;481;Saulo Ribeiro;-1;Yuki Sasaki;POINTS;N/A;-1;-1;N/A;88KG;M;R1;2003
+819;481;Saulo Ribeiro;-1;Jeff Monson;DECISION;N/A;-1;-1;N/A;ABS;M;R1;2003
+1185;481;Saulo Ribeiro;-1;L. Papadopoulis;POINTS;N/A;3;0;N/A;88KG;M;R1;2005
+1194;481;Saulo Ribeiro;-1;Dennis Hallman;SUBMISSION;Armbar;-1;-1;N/A;88KG;M;3PLC;2005
+2286;481;Saulo Ribeiro;-1;Kouji Kanechika;POINTS;N/A;-1;-1;N/A;+99KG;M;R1;2009
+1697;477;Tarsis Humpreys;-1;Jorge Santiago;POINTS;N/A;-1;-1;N/A;88KG;M;R1;2007
+1700;477;Tarsis Humpreys;-1;David Avellan;SUBMISSION;Choke;-1;-1;N/A;88KG;M;4F;2007
+2261;477;Tarsis Humpreys;-1;I. Praporshchikov;POINTS;N/A;-1;-1;N/A;88KG;M;R1;2009
+3278;733;Vinicius Magalhaes;1548;Jose Junior;SUBMISSION;Footlock;-1;-1;N/A;+99KG;M;4F;2011
+3288;733;Vinicius Magalhaes;1329;Gerardi Rinaldi;POINTS;N/A;3;0;N/A;+99KG;M;SF;2011
+3308;733;Vinicius Magalhaes;637;Bruno Bastos;SUBMISSION;Heel hook;-1;-1;N/A;ABS;M;R1;2011
+13846;733;Vinicius Magalhaes;637;Bruno Bastos;SUBMISSION;Toe hold;-1;-1;N/A;+99KG;M;E1;2017
+2309;733;Vinicius Magalhaes;1388;Gunnar Nelson;POINTS;N/A;3;0;N/A;ABS;M;3RD;2009
+7941;8394;Vagner Rocha;-1;Milton Vieira;POINTS;N/A;2;0;N/A;77KG;M;R1;2015
+13895;8394;Vagner Rocha;-1;Tero Pyylampi;POINTS;N/A;3;0;N/A;77KG;M;E1;2017
+35029;8394;Vagner Rocha;-1;Isaak Michel;DECISION;N/A;-1;-1;N/A;88KG;M;R1;2022
+35041;8394;Vagner Rocha;4488;Eoghan OFlanagan;SUBMISSION;Toe hold;-1;-1;N/A;88KG;M;3RD;2022
+3229;1617;Victor Estima;-1;Sanshiro Nakamura;POINTS;N/A;2;0;N/A;77KG;M;R1;2011
+2302;733;Vinicius Magalhaes;5463;Chris Wideman;SUBMISSION;Armbar;-1;-1;N/A;ABS;M;4F;2009
+3256;733;Vinicius Magalhaes;-1;Luke Costello;POINTS;N/A;2;0;N/A;+99KG;M;R1;2011
+5037;733;Vinicius Magalhaes;6438;Wang Yan;SUBMISSION;Heel hook;-1;-1;N/A;+99KG;M;R1;2013
+7893;733;Vinicius Magalhaes;6438;P. Ardilla;SUBMISSION;Heel hook;-1;-1;N/A;+99KG;M;R1;2015
+418;81;Vitor Ribeiro;-1;Rumina Sato;POINTS;N/A;4;0;N/A;77KG;M;R1;2000
+784;81;Vitor Ribeiro;-1;Chris Brown;POINTS;N/A;3;0;N/A;77KG;M;3PLC;2003
+1711;422;Braulio Estima;2956;Cristiano Lazzarini;SUBMISSION;Katagatame;-1;-1;N/A;99KG;M;4F;2007
+793;4965;David Terrell;86;Fernando Vieira;POINTS;N/A;-1;-1;N/A;88KG;M;4F;2003
+5033;1369;Dean Lister;2956;Cristiano Lazzarini;SUBMISSION;Heel hook;-1;-1;N/A;99KG;M;SF;2013
+3303;595;Gabrielle Garcia;258;Hanette Staack;POINTS;N/A;2;0;N/A;+60KG;F;F;2011
+371;6167;Ricco Rodriguez;1696;Garth Taylor;POINTS;N/A;-1;-1;N/A;ABS;M;3RD;1999
+13944;595;Gabrielle Garcia;7817;Jessica Flowers;POINTS;N/A;2;0;N/A;+60KG;F;SF;2017
+824;573;Fabricio Werdum;5463;Akira Soji;SUBMISSION;Armbar;-1;-1;N/A;ABS;M;4F;2003
+783;16;Marcelo Garcia;4302;Otto Olsen;SUBMISSION;RNC;-1;-1;N/A;77KG;M;F;2003
+544;93;Ricardo Arona;-1;Olav Einemo;POINTS;N/A;3;0;N/A;99KG;M;SF;2001
+7966;174;Bruno Frazatto;-1;Renan Sancar;DECISION;N/A;-1;-1;N/A;66KG;M;4F;2015
+21851;5649;Gary Tonon;4302;Mateusz Garmot;SUBMISSION;RNC;-1;-1;N/A;77KG;M;R1;2019
+5014;3009;Keenan Cornelius;4282;Oskar Piechota;SUBMISSION;D'arce choke;-1;-1;N/A;88KG;M;4F;2013
+5059;3009;Keenan Cornelius;-1;Oskar Piechota;POINTS;N/A;8;0;N/A;ABS;M;4F;2013
+13884;3009;Keenan Cornelius;6438;Kaynan D.;SUBMISSION;Outside heel hook;-1;-1;N/A;88KG;M;4F;2017
+2234;179;Rafael Mendes;3592;Jayson Patino;SUBMISSION;Triangle;-1;-1;N/A;66KG;M;R1;2009
+21828;4430;Patrick Gaudio;-1;Mraz Avdoyan;POINTS;N/A;8;0;N/A;99KG;M;R1;2019
+453;6167;Ricco Rodriguez;-1;Rodrigo Minotauro;SUBMISSION;Kneebar;-1;-1;N/A;+99KG;M;4F;2000
+551;6167;Ricco Rodriguez;-1;Roger Neff;SUBMISSION;Kneebar;-1;-1;N/A;+99KG;M;4F;2001
+7914;6792;Cassio Francis;-1;Tobias G;SUBMISSION;N/A;-1;-1;N/A;99KG;M;R1;2015
+1714;84;Alexandre Ribeiro;378;Robert Drysdale;POINTS;N/A;-1;-1;N/A;99KG;M;SF;2007
+311;727;Alexandre de Freitas;-1;Sasha Palvski;SUBMISSION;Choke;-1;-1;N/A;66KG;M;SF;1999
+3244;84;Alexandre Ribeiro;-1;Kari Petola;POINTS;N/A;5;0;N/A;99KG;M;R1;2011
+1693;144;Andre Galvao;1583;Mike Fowler;POINTS;N/A;-1;-1;N/A;77KG;M;3PLC;2007
+35077;9404;Ffion Davies;1119;Beatriz Mesquita;POINTS;N/A;6;0;N/A;60KG;F;SF;2022
+35075;9404;Ffion Davies;4302;Adele Fornarino;SUBMISSION;RNC;-1;-1;N/A;60KG;F;4F;2022
+314;88;Jean Jacques Machado;4302;Ryan Harvey;SUBMISSION;RNC;-1;-1;N/A;77KG;M;R1;1999
+316;88;Jean Jacques Machado;4302;Hayato Sakurai;SUBMISSION;RNC;-1;-1;N/A;77KG;M;SF;1999
+317;88;Jean Jacques Machado;4302;Caol Uno;SUBMISSION;RNC;-1;-1;N/A;77KG;M;F;1999
+3226;610;Jeff Glover;-1;Tom Barlow;POINTS;N/A;-1;-1;N/A;66KG;M;R1;2011
+5046;2403;Joao Gabriel Rocha;-1;Janne Pietilainen;POINTS;N/A;3;0;N/A;+99KG;M;4F;2013
+170;232;Jose Mario Sperry;-1;Ricardo Alves;POINTS;N/A;5;0;N/A;99KG;M;F;1998
+1670;419;Leonardo Vieira;1508;Sim Go;POINTS;N/A;-1;-1;N/A;66KG;M;R1;2007
+1212;3099;Marcio Corleta;-1;Jason White;SUBMISSION;Armbar;-1;-1;N/A;+99KG;M;R1;2005
+35062;12110;Nick Rodriguez;-1;Damon Ramos;POINTS;N/A;8;0;N/A;+99KG;M;R1;2022
+35069;12110;Nick Rodriguez;4302;John Hansen;SUBMISSION;RNC;-1;-1;N/A;+99KG;M;4F;2022
+7895;2452;Orlando Sanchez;-1;Janne-Pekka;SUBMISSION;Armbar;-1;-1;N/A;+99KG;M;R1;2015
+1180;919;Pablo Popovitch;-1;Roan Jucao;POINTS;N/A;2;0;N/A;77KG;M;4F;2005
+3306;919;Pablo Popovitch;-1;Janne-Pekka;POINTS;N/A;-1;-1;N/A;ABS;M;R1;2011
+7926;919;Pablo Popovitch;4302;Zbigniew Tyszka;SUBMISSION;RNC;-1;-1;N/A;88KG;M;R1;2015
+1675;177;Rany Yahya;-1;Bruno Chavez;POINTS;N/A;-1;-1;N/A;66KG;M;4F;2007
+161;52;Renzo Gracie;-1;Luis Brito;SUBMISSION;Guillotine;-1;-1;N/A;77KG;M;F;1998
+322;52;Renzo Gracie;-1;Fan Yi;SUBMISSION;Submission;-1;-1;N/A;88KG;M;R1;1999
+444;93;Ricardo Arona;-1;H. Kanehara;SUBMISSION;Kneebar;-1;-1;N/A;99KG;M;R1;2000
+447;93;Ricardo Arona;-1;Tito Ortiz;POINTS;N/A;2;0;N/A;99KG;M;SF;2000
+448;93;Ricardo Arona;-1;Jeff Monson;POINTS;N/A;-1;-1;N/A;99KG;M;F;2000
+534;93;Ricardo Arona;-1;R. Mashurenko;POINTS;N/A;2;0;N/A;99KG;M;R1;2001
+525;591;Ricardo Liborio;5463;Tamura;SUBMISSION;Armbar;-1;-1;N/A;88KG;M;R1;2001
+21820;224;Roberto Abreu;-1;Hudson Taylor;POINTS;N/A;2;0;N/A;+99KG;M;R1;2019
+360;1204;Roberto Traven;-1;F. Capoane;POINTS;N/A;2;0;N/A;ABS;M;R1;1999
+7915;247;Rodolfo Vieira;-1;Adam Sachnoff;SUBMISSION;Katagatame;-1;-1;N/A;99KG;M;R1;2015
+7898;543;Rodrigo Cavaca;-1;Hideki Sekine;DECISION;N/A;-1;-1;N/A;+99KG;M;R1;2015
+165;10579;Rodrigo Gracie;-1;Kareem Barkalev;POINTS;N/A;-1;-1;N/A;88KG;M;F;1998
+506;10579;Rodrigo Gracie;-1;Genki Sudo;POINTS;N/A;9;0;N/A;77KG;M;R1;2001
+792;117;Ronaldo Souza;5463;Matt Lindland;SUBMISSION;Armbar;-1;-1;N/A;88KG;M;4F;2003
+1191;117;Ronaldo Souza;3592;Robert Sulski;SUBMISSION;Triangle;-1;-1;N/A;88KG;M;4F;2005
+408;515;Royler Gracie;-1;J. Wakabayashi;POINTS;N/A;22;0;N/A;66KG;M;4F;2000
+4979;147;Rubens Charles;4302;D. Hemmings;SUBMISSION;RNC;-1;-1;N/A;66KG;M;R1;2013
+1685;481;Saulo Ribeiro;-1;Takefuni Hanai;SUBMISSION;Submission;-1;-1;N/A;77KG;M;R1;2007
+35061;10159;Victor Hugo;-1;Dan Manasoiu;POINTS;N/A;3;0;N/A;+99KG;M;R1;2022
+21874;7535;Bianca Basilio;-1;Livia Giles;SUBMISSION;Cross face;-1;-1;N/A;60KG;F;4F;2019
+13864;1740;Yuri Simoes;-1;Roman Dolidze;POINTS;N/A;2;0;N/A;99KG;M;E1;2017
+405;727;Alexandre de Freitas;-1;T. Yano;POINTS;N/A;10;0;N/A;66KG;M;R1;2000
+499;727;Alexandre de Freitas;-1;T. Yano;SUBMISSION;Guillotine;-1;-1;N/A;66KG;M;4F;2001
+7918;84;Alexandre Ribeiro;-1;Hector Lombard;DECISION;N/A;-1;-1;N/A;99KG;M;4F;2015
+1668;144;Andre Galvao;-1;A. Cacareco;POINTS;N/A;-1;-1;N/A;ABS;M;3PLC;2007
+7958;7442;Edward Cummings;6438;Asadulaev Surkhay;SUBMISSION;Outside heel hook;-1;-1;N/A;66KG;M;R1;2015
+419;88;Jean Jacques Machado;4302;Marcio Cromado;SUBMISSION;RNC;-1;-1;N/A;77KG;M;R1;2000
+7920;644;Joao Assis;-1;Kamil Uminski;INJURY;N/A;-1;-1;N/A;99KG;M;4F;2015
+414;419;Leonardo Vieira;4302;Bob Schirmer;SUBMISSION;RNC;-1;-1;N/A;77KG;M;R1;2000
+1174;16;Marcelo Garcia;-1;Chris Brennan;INJURY;N/A;-1;-1;N/A;77KG;M;R1;2005
+333;278;Ricardo Almeida;-1;Gao Hua;SUBMISSION;Submission;-1;-1;N/A;99KG;M;R1;1999
+829;93;Ricardo Arona;-1;Mark Kerr;POINTS;N/A;-1;-1;N/A;ABS;M;SPF;2003
+3277;224;Roberto Abreu;-1;Glover Teixeira;POINTS;N/A;-1;-1;N/A;+99KG;M;4F;2011
+1205;505;Roger Gracie;-1;A. Cacareco;SUBMISSION;Verbal tap;-1;-1;N/A;99KG;M;F;2005
+3268;431;Rousimar Palhares;6438;David Avellan;SUBMISSION;Heel hook;-1;-1;N/A;88KG;M;4F;2011
+334;481;Saulo Ribeiro;-1;Mourat Ozov;SUBMISSION;Choke;-1;-1;N/A;99KG;M;R1;1999
+2283;733;Vinicius Magalhaes;-1;Glover Teixeira;SUBMISSION;Armbar;-1;-1;N/A;99KG;M;3RD;2009
+7901;733;Vinicius Magalhaes;-1;Rodrigo Artilheiro;SUBMISSION;Twister;-1;-1;N/A;+99KG;M;4F;2015
+7950;446;Gilbert Burns;-1;Abdulkadirov Magomed;POINTS;N/A;2;0;N/A;77KG;M;4F;2015
+13886;84;Alexandre Ribeiro;5463;Rustam Chsiev;SUBMISSION;Armbar;-1;-1;N/A;88KG;M;4F;2017
+765;1023;Baret Yoshida;4302;K. Toida;SUBMISSION;RNC;-1;-1;N/A;66KG;M;R1;2003
+3228;16;Marcelo Garcia;-1;Davis Heart;SUBMISSION;Guillotine;-1;-1;N/A;77KG;M;R1;2011
+3240;919;Pablo Popovitch;-1;Zbigniew Tyszka;POINTS;N/A;-1;-1;N/A;88KG;M;R1;2011
+786;278;Ricardo Almeida;-1;Davion Peterson;SUBMISSION;Guillotine;-1;-1;N/A;88KG;M;R1;2003
+428;550;Roberto Magalhaes;-1;Manu Garcia;POINTS;N/A;9;2;N/A;88KG;M;R1;2000
+21830;733;Vinicius Magalhaes;-1;Dan Martinez;POINTS;N/A;4;0;N/A;99KG;M;R1;2019
+1175;292;Leonardo Santos;-1;Jason Brudvik;POINTS;N/A;-1;-1;N/A;77KG;M;R1;2005
+415;52;Renzo Gracie;-1;Dennis Hallman;POINTS;N/A;7;0;N/A;77KG;M;R1;2000
+2291;224;Roberto Abreu;-1;Jeff Monson;POINTS;N/A;-1;-1;N/A;+99KG;M;SF;2009
+439;481;Saulo Ribeiro;-1;Sasha Savko;POINTS;N/A;3;2;N/A;88KG;M;SF;2000
+775;81;Vitor Ribeiro;4302;Jason Ramsterrer;SUBMISSION;RNC;-1;-1;N/A;77KG;M;R1;2003
+367;6167;Ricco Rodriguez;627;Murilo Bustamante;POINTS;N/A;3;0;N/A;ABS;M;4F;1999
+2246;1322;Gregor Gracie;484;Murilo Santana;POINTS;N/A;3;0;N/A;77KG;M;R1;2009
+1704;1044;Flavio Almeida;320;Romulo Barral;POINTS;N/A;-1;-1;N/A;88KG;M;SF;2007
+35080;1119;Beatriz Mesquita;7535;Bianca Basilio;SUBMISSION;RNC;-1;-1;N/A;60KG;F;3RD;2022
+7947;5061;Gabriel Rollo;7247;Enrico Cocco;POINTS;N/A;8;0;N/A;77KG;M;R1;2015
+13955;4302;Bianca Mesquita;7535;Bianca Basilio;SUBMISSION;RNC;-1;-1;N/A;60KG;F;F;2017
+1196;4302;Vitor Viana;422;Braulio Estima;SUBMISSION;RNC;-1;-1;N/A;99KG;M;R1;2005
+2278;-1;Glover Teixeira;1369;Dean Lister;POINTS;N/A;-1;-1;N/A;99KG;M;4F;2009
+7981;-1;Jessica Oliveira;595;Gabrielle Garcia;DECISION;N/A;-1;-1;N/A;+60KG;F;SF;2015
+13879;-1;Ruslam Chsiev;7608;Jesse Urholin;DECISION;N/A;-1;-1;N/A;88KG;M;E1;2017
+352;-1;Sean Alvarez;6167;Ricco Rodriguez;POINTS;N/A;-1;-1;N/A;+99KG;M;4F;1999
+458;-1;Mark Kerr;6167;Ricco Rodriguez;POINTS;N/A;-1;-1;N/A;+99KG;M;F;2000
+554;-1;Mark Robinson;6167;Ricco Rodriguez;POINTS;N/A;-1;-1;N/A;+99KG;M;SF;2001
+566;-1;Vitor Belfort;6167;Ricco Rodriguez;POINTS;N/A;2;0;N/A;ABS;M;4F;2001
+1214;-1;Gabriel Napao;6167;Ricco Rodriguez;POINTS;N/A;2;0;N/A;+99KG;M;4F;2005
+21819;-1;John Hansen;6805;Max Gimenis;DECISION;N/A;-1;-1;N/A;+99KG;M;R1;2019
+805;-1;A. Cacareco;84;Alexandre Ribeiro;SUBMISSION;Leg lock;-1;-1;N/A;99KG;M;SF;2003
+1658;-1;David Avellan;84;Alexandre Ribeiro;DECISION;N/A;-1;-1;N/A;ABS;M;R1;2007
+35030;-1;Eoghan OFlannagan;84;Alexandre Ribeiro;POINTS;N/A;3;0;N/A;88KG;M;R1;2022
+21878;6979;Ana Carolina Vieira;12064;Amanda Leve;SUBMISSION;Short choke;-1;-1;N/A;+60KG;F;4F;2019
+1667;378;Robert Drysdale;144;Andre Galvao;SUBMISSION;RNC;-1;-1;N/A;ABS;M;SF;2007
+361;1696;Garth Taylor;1023;Baret Yoshida;POINTS;N/A;2;0;N/A;ABS;M;R1;1999
+324;-1;Kareem Barkalev;486;Amaury Bitetti;POINTS;N/A;2;0;N/A;88KG;M;4F;1999
+310;-1;Sasha Palvski;1023;Baret Yoshida;POINTS;N/A;4;0;N/A;66KG;M;4F;1999
+1223;-1;Gabriel Napao;562;Eduardo Telles;POINTS;N/A;0;0;PEN;ABS;M;R1;2005
+825;-1;A. Cacareco;573;Fabricio Werdum;POINTS;N/A;9;4;N/A;ABS;M;SF;2003
+1217;-1;Jeff Monson;573;Fabricio Werdum;POINTS;N/A;2;0;N/A;+99KG;M;SF;2005
+5025;-1;Kamil Uminski;1827;James Puopolo;SUBMISSION;Footlock;-1;-1;N/A;99KG;M;R1;2013
+2251;1322;Gregor Gracie;292;Leonardo Santos;POINTS;N/A;-1;-1;N/A;77KG;M;4F;2009
+1225;6438;A. Cacareco;292;Leonardo Santos;SUBMISSION;Heel hook;-1;-1;N/A;ABS;M;R1;2005
+459;-1;Mark Kerr;419;Leonardo Vieira;POINTS;N/A;-1;-1;N/A;ABS;M;R1;2000
+13957;-1;Chael Sonnen;419;Leonardo Vieira;DECISION;N/A;-1;-1;N/A;ABS;M;SPF;2017
+1669;378;Robert Drysdale;16;Marcelo Garcia;SUBMISSION;D'arce choke;-1;-1;N/A;ABS;M;F;2007
+1721;70;Rolles Gracie;9;Marcio Cruz;POINTS;N/A;-1;-1;N/A;+99KG;M;SF;2007
+1216;-1;Gabriel Napao;9;Marcio Cruz;SUBMISSION;Calf slicer;-1;-1;N/A;+99KG;M;SF;2005
+35036;6438;Eoghan Oflanagan;11789;Mason Fowler;SUBMISSION;Outside heel hook;-1;-1;N/A;88KG;M;4F;2022
+325;6518;Egan Inoue;52;Renzo Gracie;POINTS;N/A;2;0;N/A;88KG;M;4F;1999
+337;627;Murilo Bustamante;278;Ricardo Almeida;POINTS;N/A;2;0;N/A;99KG;M;4F;1999
+528;6518;Egan Inoue;591;Ricardo Liborio;DECISION;N/A;-1;-1;N/A;88KG;M;4F;2001
+2270;-1;David Avellan;576;Rafael Lovato Jr;SUBMISSION;Footlock;-1;-1;N/A;88KG;M;3RD;2009
+7935;-1;Rustam Chsiev;576;Rafael Lovato Jr;DECISION;N/A;-1;-1;N/A;88KG;M;4F;2015
+443;-1;Matt Hughes;278;Ricardo Almeida;POINTS;N/A;-1;-1;N/A;99KG;M;R1;2000
+463;-1;Mark Kerr;278;Ricardo Almeida;POINTS;N/A;3;0;N/A;ABS;M;SF;2000
+328;-1;Sasha Savko;591;Ricardo Liborio;POINTS;N/A;2;0;N/A;88KG;M;SF;1999
+456;-1;Mark Kerr;1817;Rigan Machado;POINTS;N/A;2;0;N/A;+99KG;M;SF;2000
+536;-1;Olav Einemo;1817;Rigan Machado;INJURY;N/A;-1;-1;N/A;99KG;M;R1;2001
+336;-1;Jeff Monson;1204;Roberto Traven;POINTS;N/A;3;0;N/A;99KG;M;4F;1999
+5008;-1;David Avellan;631;Rodrigo Caporal;DECISION;N/A;-1;-1;N/A;88KG;M;R1;2013
+464;-1;Tito Ortiz;559;Rodrigo Medeiros;POINTS;N/A;2;0;N/A;ABS;M;SF;2000
+806;-1;Olav Einemo;505;Roger Gracie;POINTS;N/A;2;0;N/A;99KG;M;SF;2003
+3239;-1;Kyle Griffin;320;Romulo Barral;POINTS;N/A;2;0;N/A;88KG;M;R1;2011
+7938;-1;Rustam Chsiev;320;Romulo Barral;DECISION;N/A;-1;-1;N/A;88KG;M;3RD;2015
+1687;1583;Mike Fowler;481;Saulo Ribeiro;SUBMISSION;Toe hold;-1;-1;N/A;77KG;M;4F;2007
+532;-1;Sanae Kikuta;481;Saulo Ribeiro;POINTS;N/A;3;0;N/A;88KG;M;F;2001
+1663;-1;A. Cacareco;477;Tarsis Humpreys;POINTS;N/A;-1;-1;N/A;ABS;M;4F;2007
+35059;-1;John Hansen;733;Vinicius Magalhaes;INJURY;N/A;-1;-1;N/A;+99KG;M;R1;2022
+35011;4759;Mateusz Szczecinski;11771;William Tackett;SUBMISSION;Footlock;-1;-1;N/A;77KG;M;R1;2022
+4982;-1;Nicolas Renier;1023;Baret Yoshida;POINTS;N/A;-1;-1;N/A;66KG;M;R1;2013
+5011;-1;Oskar Piechota;410;Claudio Calasans;SUBMISSION;Choke;-1;-1;N/A;88KG;M;R1;2013
+13948;-1;E. Karpinen;2444;Mackenzie Dern;POINTS;N/A;4;2;N/A;60KG;F;4F;2017
+13909;-1;Kuba Witkowski;1023;Baret Yoshida;POINTS;N/A;0;0;PEN;66KG;M;E1;2017
+492;-1;Mark Kerr;232;Jose Mario Sperry;POINTS;N/A;-1;-1;N/A;ABS;M;SPF;2001
+550;-1;Sean Alvarez;9;Marcio Cruz;POINTS;N/A;-1;-1;N/A;+99KG;M;4F;2001
+445;-1;Jeff Monson;559;Rodrigo Medeiros;POINTS;N/A;2;0;N/A;99KG;M;4F;2000
+2294;-1;Jeff Monson;481;Saulo Ribeiro;POINTS;N/A;-1;-1;N/A;+99KG;M;3RD;2009
+2263;4302;David Avellan;477;Tarsis Humpreys;SUBMISSION;RNC;-1;-1;N/A;88KG;M;4F;2009
+3304;1388;Gunnar Nelson;174;Bruno Frazatto;POINTS;N/A;-1;-1;N/A;ABS;M;R1;2011
+368;6438;Hayato Sakurai;6167;Ricco Rodriguez;SUBMISSION;Heel hook;-1;-1;N/A;ABS;M;SF;1999
+818;-1;A. Cacareco;559;Rodrigo Medeiros;SUBMISSION;Guillotine;-1;-1;N/A;ABS;M;R2;2003
+341;-1;Jeff Monson;481;Saulo Ribeiro;POINTS;N/A;-1;-1;N/A;99KG;M;F;1999
+35076;1119;Beatriz Mesquita;9271;Mayssa Bastos;POINTS;N/A;3;0;N/A;60KG;F;4F;2022
+340;-1;Jeff Monson;1817;Rigan Machado;POINTS;N/A;-1;-1;N/A;99KG;M;SF;1999
