@@ -6,7 +6,7 @@ bjj_matches_not_sorted = pd.read_csv("adcc_historical_data.csv", delimiter=";")
 bjj_matches = bjj_matches_not_sorted.reset_index()
 
 # Sort with the most recent at the bottom
-bjj_matches = bjj_matches.sort_index(ascending=False)
+bjj_matches = bjj_matches.sort_values(by=['year'], ascending=True)
 
 # Create unique event IDs
 unique_events = bjj_matches[['match_id']].drop_duplicates().reset_index(drop=True)
@@ -16,14 +16,39 @@ bjj_matches = bjj_matches.merge(unique_events, on='match_id')
 # Clean up win type to standardize (e.g., SUB, DECISION)
 bjj_matches['win_type'] = bjj_matches['win_type'].apply(lambda x: 'SUB' if 'SUB' in x else ('DECISION' if 'DECISION' in x else 'POINTS'))
 
-# Function to adjust K-factor based on win type
-def get_k_factor(win_type, base_k=40):
+# Function to adjust K-factor based on win type and stages
+def get_k_factor(win_type, stage, base_k=40):
+    # Increase or decrease K based on win type
     if win_type == 'SUB':
-        return base_k * 1.15  # Increase K by 15% for submission
+        k_factor = base_k * 1.15  # Increase by 15% for submission
     elif win_type == 'DECISION':
-        return base_k * 0.85  # Decrease K by 15% for decision
+        k_factor = base_k * 0.85  # Decrease by 15% for decision
     else:
-        return base_k  # Default K for other outcomes
+        k_factor = base_k  # Default K for other outcomes
+
+    # Adjust K-factor based on stage
+    stage_adjustments = {
+        'SPF': 1.4,     # Super fight - 40% more
+
+        'F': 1.3,       # Finals - 30% more
+
+        '3RD': 1.15,    # Third Place - 15% more
+        '3PLC': 1.15,
+
+        'SF': 1.2,      # Semifinals - 20% more
+
+        '4F': 1.1,      # Quarterfinals - 10% more
+        'R2': 1.1,
+
+        'R1': 1.0,       # First Round - no change
+        'E1': 1.0,
+        '8F': 1.0,
+    }
+
+    # Apply stage multiplier, default to 1 if stage isn't in adjustments
+    k_factor *= stage_adjustments.get(stage, 1.0)
+    
+    return k_factor
 
 # Initialize Elo ratings
 initial_elo = 1000
@@ -43,10 +68,10 @@ def update_elo(winner_elo, loser_elo, k_factor):
     return round(new_winner_elo, 2), round(new_loser_elo, 2)
 
 # Add columns for Elo ratings
-bjj_matches['winner_elo_start'] = 0
-bjj_matches['loser_elo_start'] = 0
-bjj_matches['winner_elo_end'] = 0
-bjj_matches['loser_elo_end'] = 0
+bjj_matches['winner_elo_start'] = 0.0
+bjj_matches['loser_elo_start'] = 0.0
+bjj_matches['winner_elo_end'] = 0.0
+bjj_matches['loser_elo_end'] = 0.0
 
 # Calculate Elo ratings for each match
 for index, row in bjj_matches.iterrows():
@@ -65,7 +90,8 @@ for index, row in bjj_matches.iterrows():
 
     # Adjust K-factor based on win type
     win_type = row["win_type"]
-    current_k = get_k_factor(win_type, base_k_factor)
+    stage = row['stage']
+    current_k = get_k_factor(win_type, stage, base_k_factor)
 
     # Record starting Elo ratings
     bjj_matches.at[index, 'winner_elo_start'] = winner_elo_start
