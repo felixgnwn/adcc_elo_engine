@@ -17,7 +17,7 @@ bjj_matches = bjj_matches.merge(unique_events, on='match_id')
 bjj_matches['win_type'] = bjj_matches['win_type'].apply(lambda x: 'SUB' if 'SUB' in x else ('DECISION' if 'DECISION' in x else 'POINTS'))
 
 # Function to adjust K-factor based on win type and stages
-def get_k_factor(win_type, stage, base_k=40):
+def get_k_factor(win_type, adv_pen, stage, base_k=40):
     # Increase or decrease K based on win type
     if win_type == 'SUB':
         k_factor = base_k * 1.15  # Increase by 15% for submission
@@ -25,6 +25,9 @@ def get_k_factor(win_type, stage, base_k=40):
         k_factor = base_k * 0.85  # Decrease by 15% for decision
     else:
         k_factor = base_k  # Default K for other outcomes
+
+    if adv_pen == 'PEN':
+        k_factor *= 0.9
 
     # Adjust K-factor based on stage
     stage_adjustments = {
@@ -90,8 +93,9 @@ for index, row in bjj_matches.iterrows():
 
     # Adjust K-factor based on win type
     win_type = row["win_type"]
+    adv_pen = row["adv_pen"]
     stage = row['stage']
-    current_k = get_k_factor(win_type, stage, base_k_factor)
+    current_k = get_k_factor(win_type, adv_pen, stage, base_k_factor)
 
     # Record starting Elo ratings
     bjj_matches.at[index, 'winner_elo_start'] = winner_elo_start
