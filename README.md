@@ -70,49 +70,18 @@ The `analysis.ipynb` notebook compares both systems using statistical analysis a
 
 ---
 
-<table width="100%" style="table-layout: fixed;">
-<tr>
-
-<td width="50%" valign="top">
-
-### Glicko-2 Rankings
-
-| Rank | Fighter          | Rating  |
-| ---- | ---------------- | ------- |
-| 1    | Gordon Ryan      | 2639.55 |
-| 2    | Ricardo Arona    | 2431.53 |
-| 3    | Royler Gracie    | 2380.82 |
-| 4    | Rubens Charles   | 2340.81 |
-| 5    | Rafael Mendes    | 2318.80 |
-| 6    | Marcelo Garcia   | 2256.03 |
-| 7    | Roger Gracie     | 2234.70 |
-| 8    | Kaynan Duarte    | 2233.32 |
-| 9    | Gabrielle Garcia | 2231.16 |
-| 10   | Amy Campo        | 2214.70 |
-
-</td>
-
-<td width="50%" valign="top">
-
-### Traditional Elo Rankings
-
-| Rank | Fighter         | Rating  |
-| ---- | --------------- | ------- |
-| 1    | Gordon Ryan     | 1327.69 |
-| 2    | Andre Galvao    | 1278.39 |
-| 3    | Marcelo Garcia  | 1263.64 |
-| 4    | Rubens Charles  | 1256.34 |
-| 5    | Ricardo Arona   | 1245.74 |
-| 6    | Roger Gracie    | 1221.22 |
-| 7    | Marcus Almeida  | 1209.77 |
-| 8    | Royler Gracie   | 1207.25 |
-| 9    | Yuri Simoes     | 1200.51 |
-| 10   | Fabricio Werdum | 1198.54 |
-
-</td>
-
-</tr>
-</table>
+| Rank | Fighter (Glicko-2) | Rating | | Rank | Fighter (Elo) | Rating |
+|------|--------------------|--------|-|------|---------------|--------|
+| 1 | Gordon Ryan | 2639.55 | | 1 | Gordon Ryan | 1327.69 |
+| 2 | Ricardo Arona | 2431.53 | | 2 | Andre Galvao | 1278.39 |
+| 3 | Royler Gracie | 2380.82 | | 3 | Marcelo Garcia | 1263.64 |
+| 4 | Rubens Charles | 2340.81 | | 4 | Rubens Charles | 1256.34 |
+| 5 | Rafael Mendes | 2318.80 | | 5 | Ricardo Arona | 1245.74 |
+| 6 | Marcelo Garcia | 2256.03 | | 6 | Roger Gracie | 1221.22 |
+| 7 | Roger Gracie | 2234.70 | | 7 | Marcus Almeida | 1209.77 |
+| 8 | Kaynan Duarte | 2233.32 | | 8 | Royler Gracie | 1207.25 |
+| 9 | Gabrielle Garcia | 2231.16 | | 9 | Yuri Simoes | 1200.51 |
+| 10 | Amy Campo | 2214.70 | | 10 | Fabricio Werdum | 1198.54 |
 
 ---
 
