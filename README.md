@@ -70,9 +70,11 @@ The `analysis.ipynb` notebook compares both systems using statistical analysis a
 
 ---
 
-# Top 10 Rankings Comparison
+<table>
+<tr>
+<td valign="top">
 
-## Glicko-2 Rankings
+### Glicko-2 Rankings
 
 | Rank | Fighter          | Rating  |
 | ---- | ---------------- | ------- |
@@ -87,7 +89,10 @@ The `analysis.ipynb` notebook compares both systems using statistical analysis a
 | 9    | Gabrielle Garcia | 2231.16 |
 | 10   | Amy Campo        | 2214.70 |
 
-## Traditional Elo Rankings
+</td>
+<td valign="top">
+
+### Traditional Elo Rankings
 
 | Rank | Fighter         | Rating  |
 | ---- | --------------- | ------- |
@@ -101,6 +106,10 @@ The `analysis.ipynb` notebook compares both systems using statistical analysis a
 | 8    | Royler Gracie   | 1207.25 |
 | 9    | Yuri Simoes     | 1200.51 |
 | 10   | Fabricio Werdum | 1198.54 |
+
+</td>
+</tr>
+</table>
 
 ---
 
