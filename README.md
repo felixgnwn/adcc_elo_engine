@@ -70,9 +70,9 @@ The `analysis.ipynb` notebook compares both systems using statistical analysis a
 
 ---
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
 ### Glicko-2 Rankings
 
@@ -90,7 +90,8 @@ The `analysis.ipynb` notebook compares both systems using statistical analysis a
 | 10   | Amy Campo        | 2214.70 |
 
 </td>
-<td valign="top">
+
+<td width="50%" valign="top">
 
 ### Traditional Elo Rankings
 
