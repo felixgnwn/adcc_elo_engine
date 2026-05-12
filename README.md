@@ -70,8 +70,9 @@ The `analysis.ipynb` notebook compares both systems using statistical analysis a
 
 ---
 
-<table width="100%">
+<table width="100%" style="table-layout: fixed;">
 <tr>
+
 <td width="50%" valign="top">
 
 ### Glicko-2 Rankings
@@ -109,6 +110,7 @@ The `analysis.ipynb` notebook compares both systems using statistical analysis a
 | 10   | Fabricio Werdum | 1198.54 |
 
 </td>
+
 </tr>
 </table>
 
